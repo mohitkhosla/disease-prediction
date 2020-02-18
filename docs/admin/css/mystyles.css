@@ -1,0 +1,46 @@
+.html {
+    overflow-x: hidden;
+}
+
+.page-max-width {
+    max-width: 900px;
+}
+
+.demo-card-wide.mdl-card {
+  width: 100%;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.cultural-background {
+    background-image: url('../img/culturalimage.jpeg');
+}
+
+.sports-background {
+    background-image: url('../img/the-ball-stadion-football-the-pitch-39562.jpeg');
+}
+
+.techfest-background {
+    background-image: url('../img/techfestimage.jpg');
+}
+
+.nss-background {
+    background-image: url('../img/nssimage.jpg');
+}
+
+.feedback-background {
+    background-image: url('../img/feedbackimage.jpeg');
+}
+
+@media only screen and (max-width: 800px) {
+    .feedback-background {
+        background-image: url('../img/feedbackimage-small.jpeg');
+    }
+}

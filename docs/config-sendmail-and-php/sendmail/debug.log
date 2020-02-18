@@ -1,0 +1,1596 @@
+18-04-09 01:13:12 ** --- MESSAGE BEGIN ---
+18-04-09 01:13:12 ** To: mohitkhosla70@gmail.com
+18-04-09 01:13:12 ** Subject: sample
+18-04-09 01:13:12 ** X-PHP-Originating-Script: 0:mail.php
+18-04-09 01:13:12 ** from: example@gmail.com
+18-04-09 01:13:12 ** 
+18-04-09 01:13:12 ** sample
+18-04-09 01:13:12 ** --- MESSAGE END ---
+18-04-09 01:13:13 ** Connecting to smtp.gmail.com:587
+18-04-09 01:13:14 ** Connected.
+18-04-09 01:13:14 << 220 smtp.gmail.com ESMTP c186sm22620310pfb.40 - gsmtp<EOL>
+18-04-09 01:13:14 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:13:14 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:13:14 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:13:14 >> STARTTLS<EOL>
+18-04-09 01:13:15 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:13:15 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:13:15 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:13:15 >> AUTH LOGIN<EOL>
+18-04-09 01:13:16 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:13:16 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:13:16 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:13:16 >> cmlraWRvdGEy<EOL>
+18-04-09 01:13:16 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuD<EOL>534-5.7.14 dI6z52Tjp_Q-xjQ4bmIz_ejhUmkyCPNhrkyFqxMBSqsiWljma9MPLE4WChOePNNUuLqyHR<EOL>534-5.7.14 nbap-Eregn2sc2wAai7h5QJ8oHALCnFABZLodGt0XBjVmVrFIxp5RHz9b13wYYrn6a49y7<EOL>534-5.7.14 HG8TV3pzCYucOwjxT_toITW8Sos1iGJ5zzxsOZE03yUTYluhaV_Ag4F9Tk264nWX7dke01<EOL>534-5.7.14 MwhCnLmyH_wMuBMZheew0B0pWxWiQ> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 c186sm22620310pfb.40 - gsmtp<EOL>
+18-04-09 01:13:16 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:13:16 ** Disconnected.
+18-04-09 01:13:16 ** Disconnected.
+18-04-09 01:13:16 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuD<EOL>dI6z52Tjp_Q-xjQ4bmIz_ejhUmkyCPNhrkyFqxMBSqsiWljma9MPLE4WChOePNNUuLqyHR<EOL>nbap-Eregn2sc2wAai7h5QJ8oHALCnFABZLodGt0XBjVmVrFIxp5RHz9b13wYYrn6a49y7<EOL>HG8TV3pzCYucOwjxT_toITW8Sos1iGJ5zzxsOZE03yUTYluhaV_Ag4F9Tk264nWX7dke01<EOL>MwhCnLmyH_wMuBMZheew0B0pWxWiQ> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 c186sm22620310pfb.40 - gsmtp<EOL>
+18-04-09 01:13:46 ** --- MESSAGE BEGIN ---
+18-04-09 01:13:46 ** To: mohitkhosla70@gmail.com
+18-04-09 01:13:46 ** Subject: sample
+18-04-09 01:13:46 ** X-PHP-Originating-Script: 0:mail.php
+18-04-09 01:13:46 ** from: mohitkhosla70@gmail.com
+18-04-09 01:13:46 ** 
+18-04-09 01:13:46 ** sample
+18-04-09 01:13:46 ** --- MESSAGE END ---
+18-04-09 01:13:47 ** Connecting to smtp.gmail.com:587
+18-04-09 01:13:47 ** Connected.
+18-04-09 01:13:47 << 220 smtp.gmail.com ESMTP 189sm30647914pfu.44 - gsmtp<EOL>
+18-04-09 01:13:47 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:13:48 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:13:48 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:13:48 >> STARTTLS<EOL>
+18-04-09 01:13:48 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:13:48 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:13:48 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:13:48 >> AUTH LOGIN<EOL>
+18-04-09 01:13:49 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:13:49 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:13:49 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:13:49 >> cmlraWRvdGEy<EOL>
+18-04-09 01:13:49 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuH<EOL>534-5.7.14 sIY7dLBExDMkmIhj9SFhFMt12tSGe_DIMl0TMxO_ftA-Y9Ivfi96ZBkBLFWvLuR019ISDp<EOL>534-5.7.14 v88g-rXb-u-7ycwxfrE-R6GL4ueTYBo7a4EhGwfVEttqN4jXxepWLKP9c6ZlvWIvNev-m3<EOL>534-5.7.14 WfVlZB4bp7jXJhB1220DYoHWu9THT4xEuzRlhrGsxcw8l0o9vXCcC8OptciOrs6g9_0lJ2<EOL>534-5.7.14 Xov0VuzqbW-XuIkVkTBYHBLpz9Kgw> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 189sm30647914pfu.44 - gsmtp<EOL>
+18-04-09 01:13:49 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:13:49 ** Disconnected.
+18-04-09 01:13:49 ** Disconnected.
+18-04-09 01:13:49 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuH<EOL>sIY7dLBExDMkmIhj9SFhFMt12tSGe_DIMl0TMxO_ftA-Y9Ivfi96ZBkBLFWvLuR019ISDp<EOL>v88g-rXb-u-7ycwxfrE-R6GL4ueTYBo7a4EhGwfVEttqN4jXxepWLKP9c6ZlvWIvNev-m3<EOL>WfVlZB4bp7jXJhB1220DYoHWu9THT4xEuzRlhrGsxcw8l0o9vXCcC8OptciOrs6g9_0lJ2<EOL>Xov0VuzqbW-XuIkVkTBYHBLpz9Kgw> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 189sm30647914pfu.44 - gsmtp<EOL>
+18-04-09 01:18:24 ** --- MESSAGE BEGIN ---
+18-04-09 01:18:24 ** To: mohitkhosla70@gmail.com
+18-04-09 01:18:24 ** Subject: gmail
+18-04-09 01:18:24 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:18:24 ** From: mohitkhosla70@gmail.com
+18-04-09 01:18:24 ** 
+18-04-09 01:18:24 ** gmail
+18-04-09 01:18:24 ** --- MESSAGE END ---
+18-04-09 01:18:25 ** Connecting to smtp.gmail.com:587
+18-04-09 01:18:26 ** Connected.
+18-04-09 01:18:26 << 220 smtp.gmail.com ESMTP u7sm25838747pgc.71 - gsmtp<EOL>
+18-04-09 01:18:26 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:18:26 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:18:26 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:18:26 >> STARTTLS<EOL>
+18-04-09 01:18:26 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:18:27 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:18:27 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:18:27 >> AUTH LOGIN<EOL>
+18-04-09 01:18:27 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:18:27 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:18:28 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:18:28 >> cmlraWRvdGEy<EOL>
+18-04-09 01:18:28 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtv<EOL>534-5.7.14 mCQNv-qykJkU1ncUJHbHHEP-P8uZYtdGudpuiK8e7Y-H4Qg6HMf0P8wLuWEBj9QGlhXIPe<EOL>534-5.7.14 pZRXYhn3UzDes_M89lfjQuw5-7t6N2ez3JbgbkM1M4vl29gy1cigbmVqkil9301HJzs3az<EOL>534-5.7.14 APFs0AFRF4N2R4cK9FkBb9ZxMp3rxPcJju5ddu5i1l81U-yZY-Q2XwqPAyaTZ1AnhBMVZl<EOL>534-5.7.14 FvrKMZMm0yUsJTVbFZjiqZIG5ZO_U> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 u7sm25838747pgc.71 - gsmtp<EOL>
+18-04-09 01:18:28 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:18:28 ** Disconnected.
+18-04-09 01:18:28 ** Disconnected.
+18-04-09 01:18:28 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtv<EOL>mCQNv-qykJkU1ncUJHbHHEP-P8uZYtdGudpuiK8e7Y-H4Qg6HMf0P8wLuWEBj9QGlhXIPe<EOL>pZRXYhn3UzDes_M89lfjQuw5-7t6N2ez3JbgbkM1M4vl29gy1cigbmVqkil9301HJzs3az<EOL>APFs0AFRF4N2R4cK9FkBb9ZxMp3rxPcJju5ddu5i1l81U-yZY-Q2XwqPAyaTZ1AnhBMVZl<EOL>FvrKMZMm0yUsJTVbFZjiqZIG5ZO_U> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 u7sm25838747pgc.71 - gsmtp<EOL>
+18-04-09 01:31:26 ** --- MESSAGE BEGIN ---
+18-04-09 01:31:26 ** To: mohitkhosla70@gmail.com
+18-04-09 01:31:26 ** Subject: sample
+18-04-09 01:31:26 ** X-PHP-Originating-Script: 0:mail.php
+18-04-09 01:31:26 ** from: mohitkhosla70@gmail.com
+18-04-09 01:31:26 ** 
+18-04-09 01:31:26 ** sample
+18-04-09 01:31:26 ** --- MESSAGE END ---
+18-04-09 01:31:27 ** Connecting to smtp.gmail.com:587
+18-04-09 01:31:27 ** Connected.
+18-04-09 01:31:27 << 220 smtp.gmail.com ESMTP e62sm31309322pfl.117 - gsmtp<EOL>
+18-04-09 01:31:27 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:31:28 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:31:28 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:31:28 >> STARTTLS<EOL>
+18-04-09 01:31:28 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:31:28 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:31:28 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:31:28 >> AUTH LOGIN<EOL>
+18-04-09 01:31:29 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:31:29 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:31:29 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:31:29 >> cmlraWRvdGEy<EOL>
+18-04-09 01:31:29 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuc<EOL>534-5.7.14 YtDRCl_Ut2mkRUwg0JEjF5FPqzyGlT2QhEpD8bqjdYC2hk7uq5dyZ3qDVDje7uhLHsWBTI<EOL>534-5.7.14 9gDsyKxHaQUXN33S7tX7eOpKz_Fvgv4L2nySgul7ZKwYgY8Jbm7mtRIy4brAAMNMcelyTm<EOL>534-5.7.14 V8CN3nY3eZqXY3zp0OVK-N0Y3uOG3fZYhoIXMYdHZLu-ldcXal62MqzHdZNq-FLprYnSXy<EOL>534-5.7.14 oEO913PnetDB20z6aQ7fZm-XdWll4> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 e62sm31309322pfl.117 - gsmtp<EOL>
+18-04-09 01:31:29 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:31:29 ** Disconnected.
+18-04-09 01:31:29 ** Disconnected.
+18-04-09 01:31:29 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuc<EOL>YtDRCl_Ut2mkRUwg0JEjF5FPqzyGlT2QhEpD8bqjdYC2hk7uq5dyZ3qDVDje7uhLHsWBTI<EOL>9gDsyKxHaQUXN33S7tX7eOpKz_Fvgv4L2nySgul7ZKwYgY8Jbm7mtRIy4brAAMNMcelyTm<EOL>V8CN3nY3eZqXY3zp0OVK-N0Y3uOG3fZYhoIXMYdHZLu-ldcXal62MqzHdZNq-FLprYnSXy<EOL>oEO913PnetDB20z6aQ7fZm-XdWll4> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 e62sm31309322pfl.117 - gsmtp<EOL>
+18-04-09 01:31:57 ** --- MESSAGE BEGIN ---
+18-04-09 01:31:57 ** To: mohitkhosla70@gmail.com
+18-04-09 01:31:57 ** Subject: test
+18-04-09 01:31:57 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:31:57 ** From: mohitkhosla70@gmail.com
+18-04-09 01:31:57 ** 
+18-04-09 01:31:57 ** test
+18-04-09 01:31:57 ** --- MESSAGE END ---
+18-04-09 01:31:57 ** Connecting to smtp.gmail.com:587
+18-04-09 01:31:58 ** Connected.
+18-04-09 01:31:58 << 220 smtp.gmail.com ESMTP f64sm29183628pfa.154 - gsmtp<EOL>
+18-04-09 01:31:58 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:31:58 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:31:58 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:31:58 >> STARTTLS<EOL>
+18-04-09 01:31:59 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:31:59 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:32:00 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:32:00 >> AUTH LOGIN<EOL>
+18-04-09 01:32:00 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:32:00 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:32:00 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:32:00 >> cmlraWRvdGEy<EOL>
+18-04-09 01:32:01 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuC<EOL>534-5.7.14 WdThdnp5w4lipJu3T7nR-ic5IDdIw5C-1TY2PxAnd5rlvDF1Ze2oQ915LuqunkcL5316nV<EOL>534-5.7.14 tAAkDz0hW_QGAkbDe9I131p7eCY9lhA5fBEDXhewySPLbS5PQVSqCfqVKBJmc64pHlk476<EOL>534-5.7.14 uEtp3gqK4GUYsUBhv5_WaZSk8FPTIEOBvSsQ7P8uwGa3wObZEeeekmXPVYOIYDm2A5Gaw3<EOL>534-5.7.14 zLc4XG4MDtIDXehmTulxVhfKEWiWM> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 f64sm29183628pfa.154 - gsmtp<EOL>
+18-04-09 01:32:01 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:32:01 ** Disconnected.
+18-04-09 01:32:01 ** Disconnected.
+18-04-09 01:32:01 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuC<EOL>WdThdnp5w4lipJu3T7nR-ic5IDdIw5C-1TY2PxAnd5rlvDF1Ze2oQ915LuqunkcL5316nV<EOL>tAAkDz0hW_QGAkbDe9I131p7eCY9lhA5fBEDXhewySPLbS5PQVSqCfqVKBJmc64pHlk476<EOL>uEtp3gqK4GUYsUBhv5_WaZSk8FPTIEOBvSsQ7P8uwGa3wObZEeeekmXPVYOIYDm2A5Gaw3<EOL>zLc4XG4MDtIDXehmTulxVhfKEWiWM> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 f64sm29183628pfa.154 - gsmtp<EOL>
+18-04-09 01:36:54 ** --- MESSAGE BEGIN ---
+18-04-09 01:36:54 ** To: mohitkhosla70@gmail.com
+18-04-09 01:36:54 ** Subject: test
+18-04-09 01:36:54 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:36:54 ** From: mohitkhosla70@gmail.com
+18-04-09 01:36:54 ** 
+18-04-09 01:36:54 ** test
+18-04-09 01:36:54 ** 
+18-04-09 01:36:54 ** --- MESSAGE END ---
+18-04-09 01:36:55 ** Connecting to smtp.gmail.com:587
+18-04-09 01:36:56 ** Connected.
+18-04-09 01:36:56 << 220 smtp.gmail.com ESMTP o18sm133597pgd.59 - gsmtp<EOL>
+18-04-09 01:36:56 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:36:56 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:36:56 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:36:56 >> STARTTLS<EOL>
+18-04-09 01:36:56 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:36:56 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:36:57 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:36:57 >> AUTH LOGIN<EOL>
+18-04-09 01:36:57 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:36:57 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:36:57 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:36:57 >> cmlraWRvdGEy<EOL>
+18-04-09 01:36:58 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtx<EOL>534-5.7.14 L9TeAo3Wj9xArcchqabt0yfVOL21hJ6tSuPDcPekkj-Xxqwxvao8P1YrdnQncTf_4BYwGP<EOL>534-5.7.14 ldD7gQH-UaeyXAXswV0VWLF5FcN0ckYC7AvuJcrur_OKU-05kabz7ze9aO0ow6F1RxO1fR<EOL>534-5.7.14 8qeOxqc1naTDNwxEq2yLpXktWp_EteIEkMYY5Vn2O59Tws-wdsBq5ieNG6vzI8db02bv_W<EOL>534-5.7.14 ilQDUaABfE-wV5sYrnsPGUIZrKOMA> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 o18sm133597pgd.59 - gsmtp<EOL>
+18-04-09 01:36:58 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:36:58 ** Disconnected.
+18-04-09 01:36:58 ** Disconnected.
+18-04-09 01:36:58 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtx<EOL>L9TeAo3Wj9xArcchqabt0yfVOL21hJ6tSuPDcPekkj-Xxqwxvao8P1YrdnQncTf_4BYwGP<EOL>ldD7gQH-UaeyXAXswV0VWLF5FcN0ckYC7AvuJcrur_OKU-05kabz7ze9aO0ow6F1RxO1fR<EOL>8qeOxqc1naTDNwxEq2yLpXktWp_EteIEkMYY5Vn2O59Tws-wdsBq5ieNG6vzI8db02bv_W<EOL>ilQDUaABfE-wV5sYrnsPGUIZrKOMA> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 o18sm133597pgd.59 - gsmtp<EOL>
+18-04-09 01:39:18 ** --- MESSAGE BEGIN ---
+18-04-09 01:39:18 ** To: mohitkhosla70@gmail.com
+18-04-09 01:39:18 ** Subject: testing
+18-04-09 01:39:18 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:39:18 ** From: mohitkhosla70@gmail.com
+18-04-09 01:39:18 ** 
+18-04-09 01:39:18 ** testing using mail
+18-04-09 01:39:18 ** --- MESSAGE END ---
+18-04-09 01:39:19 ** Connecting to smtp.gmail.com:587
+18-04-09 01:39:20 ** Connected.
+18-04-09 01:39:20 << 220 smtp.gmail.com ESMTP l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:20 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:39:20 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:39:20 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:39:20 >> STARTTLS<EOL>
+18-04-09 01:39:20 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:39:21 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:39:21 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:39:21 >> AUTH LOGIN<EOL>
+18-04-09 01:39:21 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:39:21 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:39:21 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:39:21 >> cmlraWRvdGEy<EOL>
+18-04-09 01:39:22 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:39:22 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:39:23 << 250 2.1.0 OK l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:23 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:39:24 << 250 2.1.5 OK l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:24 >> DATA<EOL>
+18-04-09 01:39:25 << 354  Go ahead l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:25 >> Date: Mon, 9 Apr 2018 01:39:25 +0530<EOL>
+18-04-09 01:39:25 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:39:25 >> Subject: testing<EOL>
+18-04-09 01:39:25 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:39:25 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:39:25 >> <EOL>
+18-04-09 01:39:25 >> testing using mail<EOL>
+18-04-09 01:39:25 >> .<EOL>
+18-04-09 01:39:27 << 250 2.0.0 OK 1523218167 l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:27 >> QUIT<EOL>
+18-04-09 01:39:28 << 221 2.0.0 closing connection l80sm31265434pfb.38 - gsmtp<EOL>
+18-04-09 01:39:28 ** Disconnected.
+18-04-09 01:39:28 ** Disconnected.
+18-04-09 01:39:28 ** Disconnected.
+18-04-09 01:41:13 ** --- MESSAGE BEGIN ---
+18-04-09 01:41:13 ** To: mohitkhosla70@gmail.com
+18-04-09 01:41:13 ** Subject: testing
+18-04-09 01:41:13 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:41:13 ** From: mohitkhosla70@gmail.com
+18-04-09 01:41:13 ** 
+18-04-09 01:41:13 ** testing using mail
+18-04-09 01:41:13 ** --- MESSAGE END ---
+18-04-09 01:41:14 ** Connecting to smtp.gmail.com:587
+18-04-09 01:41:14 ** Connected.
+18-04-09 01:41:14 << 220 smtp.gmail.com ESMTP w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:14 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:41:15 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:41:15 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:41:15 >> STARTTLS<EOL>
+18-04-09 01:41:15 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:41:15 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:41:15 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:41:15 >> AUTH LOGIN<EOL>
+18-04-09 01:41:16 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:41:16 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:41:16 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:41:16 >> cmlraWRvdGEy<EOL>
+18-04-09 01:41:17 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:41:17 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:41:17 << 250 2.1.0 OK w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:17 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:41:17 << 250 2.1.5 OK w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:17 >> DATA<EOL>
+18-04-09 01:41:18 << 354  Go ahead w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:18 >> Date: Mon, 9 Apr 2018 01:41:18 +0530<EOL>
+18-04-09 01:41:18 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:41:18 >> Subject: testing<EOL>
+18-04-09 01:41:18 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:41:18 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:41:18 >> <EOL>
+18-04-09 01:41:18 >> testing using mail<EOL>
+18-04-09 01:41:18 >> .<EOL>
+18-04-09 01:41:19 << 250 2.0.0 OK 1523218280 w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:19 >> QUIT<EOL>
+18-04-09 01:41:19 << 221 2.0.0 closing connection w16sm18297913pfk.125 - gsmtp<EOL>
+18-04-09 01:41:19 ** Disconnected.
+18-04-09 01:41:19 ** Disconnected.
+18-04-09 01:41:19 ** Disconnected.
+18-04-09 01:41:39 ** --- MESSAGE BEGIN ---
+18-04-09 01:41:39 ** To: mohitkhosla70@gmail.com
+18-04-09 01:41:39 ** Subject: testing
+18-04-09 01:41:39 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:41:39 ** From: mohitkhosla70@gmail.com
+18-04-09 01:41:39 ** 
+18-04-09 01:41:39 ** testing using mail
+18-04-09 01:41:39 ** --- MESSAGE END ---
+18-04-09 01:41:40 ** Connecting to smtp.gmail.com:587
+18-04-09 01:41:40 ** Connected.
+18-04-09 01:41:40 << 220 smtp.gmail.com ESMTP b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:40 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:41:40 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:41:40 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:41:40 >> STARTTLS<EOL>
+18-04-09 01:41:41 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:41:41 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:41:41 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:41:41 >> AUTH LOGIN<EOL>
+18-04-09 01:41:41 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:41:41 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:41:42 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:41:42 >> cmlraWRvdGEy<EOL>
+18-04-09 01:41:42 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:41:42 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:41:43 << 250 2.1.0 OK b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:43 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:41:43 << 250 2.1.5 OK b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:43 >> DATA<EOL>
+18-04-09 01:41:43 << 354  Go ahead b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:43 >> Date: Mon, 9 Apr 2018 01:41:43 +0530<EOL>
+18-04-09 01:41:43 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:41:43 >> Subject: testing<EOL>
+18-04-09 01:41:43 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:41:43 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:41:43 >> <EOL>
+18-04-09 01:41:43 >> testing using mail<EOL>
+18-04-09 01:41:43 >> .<EOL>
+18-04-09 01:41:45 << 250 2.0.0 OK 1523218305 b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:45 >> QUIT<EOL>
+18-04-09 01:41:45 << 221 2.0.0 closing connection b13sm27039970pfi.169 - gsmtp<EOL>
+18-04-09 01:41:45 ** Disconnected.
+18-04-09 01:41:45 ** Disconnected.
+18-04-09 01:41:45 ** Disconnected.
+18-04-09 01:42:15 ** --- MESSAGE BEGIN ---
+18-04-09 01:42:15 ** To: avishajadhav91@gmail.com
+18-04-09 01:42:15 ** Subject: AAYA MAIL?
+18-04-09 01:42:15 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:42:15 ** From: avishajadhav91@gmail.com
+18-04-09 01:42:15 ** 
+18-04-09 01:42:15 ** MAIL AAYA?
+18-04-09 01:42:15 ** --- MESSAGE END ---
+18-04-09 01:42:16 ** Connecting to smtp.gmail.com:587
+18-04-09 01:42:17 ** Connected.
+18-04-09 01:42:17 << 220 smtp.gmail.com ESMTP w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:17 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:42:17 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:42:17 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:42:17 >> STARTTLS<EOL>
+18-04-09 01:42:17 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:42:18 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:42:18 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:42:18 >> AUTH LOGIN<EOL>
+18-04-09 01:42:18 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:42:18 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:42:18 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:42:18 >> cmlraWRvdGEy<EOL>
+18-04-09 01:42:19 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:42:19 >> MAIL FROM: <avishajadhav91@gmail.com><EOL>
+18-04-09 01:42:20 << 250 2.1.0 OK w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:20 >> RCPT TO: <avishajadhav91@gmail.com><EOL>
+18-04-09 01:42:20 << 250 2.1.5 OK w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:20 >> DATA<EOL>
+18-04-09 01:42:20 << 354  Go ahead w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:20 >> Date: Mon, 9 Apr 2018 01:42:20 +0530<EOL>
+18-04-09 01:42:20 >> To: avishajadhav91@gmail.com<EOL>
+18-04-09 01:42:20 >> Subject: AAYA MAIL?<EOL>
+18-04-09 01:42:20 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:42:20 >> From: avishajadhav91@gmail.com<EOL>
+18-04-09 01:42:20 >> <EOL>
+18-04-09 01:42:20 >> MAIL AAYA?<EOL>
+18-04-09 01:42:20 >> .<EOL>
+18-04-09 01:42:22 << 250 2.0.0 OK 1523218342 w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:22 >> QUIT<EOL>
+18-04-09 01:42:22 << 221 2.0.0 closing connection w6sm26864392pgc.11 - gsmtp<EOL>
+18-04-09 01:42:22 ** Disconnected.
+18-04-09 01:42:22 ** Disconnected.
+18-04-09 01:42:22 ** Disconnected.
+18-04-09 01:44:04 ** --- MESSAGE BEGIN ---
+18-04-09 01:44:04 ** To: mohitkhosla70@gmail.com
+18-04-09 01:44:04 ** Subject: test
+18-04-09 01:44:04 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:44:04 ** From: mohitkhosla70@gmail.com
+18-04-09 01:44:04 ** 
+18-04-09 01:44:04 ** test
+18-04-09 01:44:04 ** --- MESSAGE END ---
+18-04-09 01:44:05 ** Connecting to smtp.gmail.com:587
+18-04-09 01:44:06 ** Connected.
+18-04-09 01:44:06 << 220 smtp.gmail.com ESMTP k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:06 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:44:06 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:44:06 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:44:06 >> STARTTLS<EOL>
+18-04-09 01:44:06 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:44:07 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:44:07 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:44:07 >> AUTH LOGIN<EOL>
+18-04-09 01:44:07 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:44:07 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:44:08 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:44:08 >> cmlraWRvdGEy<EOL>
+18-04-09 01:44:08 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:44:08 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:44:08 << 250 2.1.0 OK k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:08 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:44:09 << 250 2.1.5 OK k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:09 >> DATA<EOL>
+18-04-09 01:44:10 << 354  Go ahead k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:10 >> Date: Mon, 9 Apr 2018 01:44:10 +0530<EOL>
+18-04-09 01:44:10 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:44:10 >> Subject: test<EOL>
+18-04-09 01:44:10 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:44:10 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:44:10 >> <EOL>
+18-04-09 01:44:10 >> test<EOL>
+18-04-09 01:44:10 >> .<EOL>
+18-04-09 01:44:11 << 250 2.0.0 OK 1523218451 k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:11 >> QUIT<EOL>
+18-04-09 01:44:12 << 221 2.0.0 closing connection k2sm24194899pgo.85 - gsmtp<EOL>
+18-04-09 01:44:12 ** Disconnected.
+18-04-09 01:44:12 ** Disconnected.
+18-04-09 01:44:12 ** Disconnected.
+18-04-09 01:48:00 ** --- MESSAGE BEGIN ---
+18-04-09 01:48:00 ** To: mohitkhosla70@gmail.com
+18-04-09 01:48:00 ** Subject: test
+18-04-09 01:48:00 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:48:00 ** From: mohitkhosla70@gmail.com
+18-04-09 01:48:00 ** 
+18-04-09 01:48:00 ** test
+18-04-09 01:48:00 ** --- MESSAGE END ---
+18-04-09 01:48:01 ** Connecting to smtp.gmail.com:587
+18-04-09 01:48:02 ** Connected.
+18-04-09 01:48:02 << 220 smtp.gmail.com ESMTP p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:02 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:48:02 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:48:02 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:48:02 >> STARTTLS<EOL>
+18-04-09 01:48:02 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:48:03 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:48:03 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:48:03 >> AUTH LOGIN<EOL>
+18-04-09 01:48:03 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:48:03 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:48:04 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:48:04 >> cmlraWRvdGEy<EOL>
+18-04-09 01:48:04 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:48:04 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:48:05 << 250 2.1.0 OK p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:05 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:48:05 << 250 2.1.5 OK p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:05 >> DATA<EOL>
+18-04-09 01:48:06 << 354  Go ahead p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:06 >> Date: Mon, 9 Apr 2018 01:48:06 +0530<EOL>
+18-04-09 01:48:06 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:48:06 >> Subject: test<EOL>
+18-04-09 01:48:06 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:48:06 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:48:06 >> <EOL>
+18-04-09 01:48:06 >> test<EOL>
+18-04-09 01:48:06 >> .<EOL>
+18-04-09 01:48:07 << 250 2.0.0 OK 1523218687 p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:07 >> QUIT<EOL>
+18-04-09 01:48:08 << 221 2.0.0 closing connection p20sm27814251pff.41 - gsmtp<EOL>
+18-04-09 01:48:08 ** Disconnecting from smtp.gmail.com:587
+18-04-09 01:48:08 ** Disconnected.
+18-04-09 01:48:08 ** Disconnected.
+18-04-09 01:48:21 ** --- MESSAGE BEGIN ---
+18-04-09 01:48:21 ** To: mohitkhosla70@gmail.com
+18-04-09 01:48:21 ** Subject: tesstttt
+18-04-09 01:48:21 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:48:21 ** From: mohitkhosla70@gmail.com
+18-04-09 01:48:21 ** 
+18-04-09 01:48:21 ** noo
+18-04-09 01:48:21 ** --- MESSAGE END ---
+18-04-09 01:48:22 ** Connecting to smtp.gmail.com:587
+18-04-09 01:48:23 ** Connected.
+18-04-09 01:48:23 << 220 smtp.gmail.com ESMTP 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:23 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:48:23 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:48:23 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:48:23 >> STARTTLS<EOL>
+18-04-09 01:48:23 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:48:24 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:48:24 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:48:24 >> AUTH LOGIN<EOL>
+18-04-09 01:48:24 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:48:24 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:48:24 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:48:24 >> cmlraWRvdGEy<EOL>
+18-04-09 01:48:25 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:48:25 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:48:26 << 250 2.1.0 OK 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:26 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:48:26 << 250 2.1.5 OK 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:26 >> DATA<EOL>
+18-04-09 01:48:27 << 354  Go ahead 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:27 >> Date: Mon, 9 Apr 2018 01:48:27 +0530<EOL>
+18-04-09 01:48:27 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:48:27 >> Subject: tesstttt<EOL>
+18-04-09 01:48:27 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:48:27 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:48:27 >> <EOL>
+18-04-09 01:48:27 >> noo<EOL>
+18-04-09 01:48:27 >> .<EOL>
+18-04-09 01:48:29 << 250 2.0.0 OK 1523218709 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:29 >> QUIT<EOL>
+18-04-09 01:48:30 << 221 2.0.0 closing connection 17sm7607363pfw.46 - gsmtp<EOL>
+18-04-09 01:48:30 ** Disconnected.
+18-04-09 01:48:30 ** Disconnected.
+18-04-09 01:48:30 ** Disconnected.
+18-04-09 01:49:57 ** --- MESSAGE BEGIN ---
+18-04-09 01:49:57 ** To: 
+18-04-09 01:49:57 ** Subject: 
+18-04-09 01:49:57 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:49:57 ** From:
+18-04-09 01:49:57 ** 
+18-04-09 01:49:57 ** 
+18-04-09 01:49:57 ** --- MESSAGE END ---
+18-04-09 01:49:57 ** Message is missing sender's address
+18-04-09 01:50:15 ** --- MESSAGE BEGIN ---
+18-04-09 01:50:15 ** To: 
+18-04-09 01:50:15 ** Subject: 
+18-04-09 01:50:15 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:50:15 ** From:
+18-04-09 01:50:15 ** 
+18-04-09 01:50:15 ** 
+18-04-09 01:50:15 ** --- MESSAGE END ---
+18-04-09 01:50:15 ** Message is missing sender's address
+18-04-09 01:50:19 ** --- MESSAGE BEGIN ---
+18-04-09 01:50:19 ** To: 
+18-04-09 01:50:19 ** Subject: 
+18-04-09 01:50:19 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:50:19 ** From:
+18-04-09 01:50:19 ** 
+18-04-09 01:50:19 ** 
+18-04-09 01:50:19 ** --- MESSAGE END ---
+18-04-09 01:50:19 ** Message is missing sender's address
+18-04-09 01:52:18 ** --- MESSAGE BEGIN ---
+18-04-09 01:52:18 ** To: mohitkhosla70@gmail.com
+18-04-09 01:52:18 ** Subject: hey
+18-04-09 01:52:18 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:52:18 ** From: mohitkhosla70@gmail.com
+18-04-09 01:52:18 ** 
+18-04-09 01:52:18 ** hey
+18-04-09 01:52:18 ** --- MESSAGE END ---
+18-04-09 01:52:19 ** Connecting to smtp.gmail.com:587
+18-04-09 01:52:20 ** Connected.
+18-04-09 01:52:20 << 220 smtp.gmail.com ESMTP r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:20 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:52:20 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:52:20 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:52:20 >> STARTTLS<EOL>
+18-04-09 01:52:21 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:52:21 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:52:21 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:52:21 >> AUTH LOGIN<EOL>
+18-04-09 01:52:21 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:52:21 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:52:22 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:52:22 >> cmlraWRvdGEy<EOL>
+18-04-09 01:52:22 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:52:22 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:52:22 << 250 2.1.0 OK r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:22 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:52:23 << 250 2.1.5 OK r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:23 >> DATA<EOL>
+18-04-09 01:52:23 << 354  Go ahead r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:23 >> Date: Mon, 9 Apr 2018 01:52:23 +0530<EOL>
+18-04-09 01:52:23 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:52:23 >> Subject: hey<EOL>
+18-04-09 01:52:23 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:52:23 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:52:23 >> <EOL>
+18-04-09 01:52:23 >> hey<EOL>
+18-04-09 01:52:23 >> .<EOL>
+18-04-09 01:52:25 << 250 2.0.0 OK 1523218945 r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:25 >> QUIT<EOL>
+18-04-09 01:52:26 << 221 2.0.0 closing connection r129sm32034644pfc.83 - gsmtp<EOL>
+18-04-09 01:52:26 ** Disconnected.
+18-04-09 01:52:26 ** Disconnected.
+18-04-09 01:52:26 ** Disconnected.
+18-04-09 01:56:48 ** --- MESSAGE BEGIN ---
+18-04-09 01:56:48 ** To: mohitkhosla70@gmail.com
+18-04-09 01:56:48 ** Subject: df
+18-04-09 01:56:48 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:56:48 ** From: mohitkhosla70@gmail.com
+18-04-09 01:56:48 ** 
+18-04-09 01:56:48 ** sd
+18-04-09 01:56:48 ** --- MESSAGE END ---
+18-04-09 01:56:49 ** Connecting to smtp.gmail.com:587
+18-04-09 01:56:50 ** Connected.
+18-04-09 01:56:50 << 220 smtp.gmail.com ESMTP b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:50 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:56:50 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:56:50 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:56:50 >> STARTTLS<EOL>
+18-04-09 01:56:50 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:56:50 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:56:51 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:56:51 >> AUTH LOGIN<EOL>
+18-04-09 01:56:51 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:56:51 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:56:51 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:56:51 >> cmlraWRvdGEy<EOL>
+18-04-09 01:56:52 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:56:52 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:56:52 << 250 2.1.0 OK b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:52 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:56:52 << 250 2.1.5 OK b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:52 >> DATA<EOL>
+18-04-09 01:56:53 << 354  Go ahead b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:53 >> Date: Mon, 9 Apr 2018 01:56:53 +0530<EOL>
+18-04-09 01:56:53 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:56:53 >> Subject: df<EOL>
+18-04-09 01:56:53 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:56:53 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:56:53 >> <EOL>
+18-04-09 01:56:53 >> sd<EOL>
+18-04-09 01:56:53 >> .<EOL>
+18-04-09 01:56:54 << 250 2.0.0 OK 1523219215 b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:54 >> QUIT<EOL>
+18-04-09 01:56:54 << 221 2.0.0 closing connection b6sm29992285pfm.160 - gsmtp<EOL>
+18-04-09 01:56:54 ** Disconnected.
+18-04-09 01:56:54 ** Disconnected.
+18-04-09 01:56:54 ** Disconnected.
+18-04-09 01:59:31 ** --- MESSAGE BEGIN ---
+18-04-09 01:59:31 ** To: mohitkhosla70@gmail.com
+18-04-09 01:59:31 ** Subject: testing
+18-04-09 01:59:31 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 01:59:31 ** From: mohitkhosla70@gmail.com
+18-04-09 01:59:31 ** 
+18-04-09 01:59:31 ** dsf
+18-04-09 01:59:31 ** --- MESSAGE END ---
+18-04-09 01:59:32 ** Connecting to smtp.gmail.com:587
+18-04-09 01:59:32 ** Connected.
+18-04-09 01:59:33 << 220 smtp.gmail.com ESMTP r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:33 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:59:33 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:59:33 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 01:59:33 >> STARTTLS<EOL>
+18-04-09 01:59:33 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 01:59:34 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 01:59:34 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 01:59:34 >> AUTH LOGIN<EOL>
+18-04-09 01:59:34 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 01:59:34 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 01:59:35 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 01:59:35 >> cmlraWRvdGEy<EOL>
+18-04-09 01:59:35 << 235 2.7.0 Accepted<EOL>
+18-04-09 01:59:35 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:59:36 << 250 2.1.0 OK r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:36 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 01:59:36 << 250 2.1.5 OK r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:36 >> DATA<EOL>
+18-04-09 01:59:36 << 354  Go ahead r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:36 >> Date: Mon, 9 Apr 2018 01:59:36 +0530<EOL>
+18-04-09 01:59:36 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:59:36 >> Subject: testing<EOL>
+18-04-09 01:59:36 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 01:59:36 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 01:59:36 >> <EOL>
+18-04-09 01:59:36 >> dsf<EOL>
+18-04-09 01:59:36 >> .<EOL>
+18-04-09 01:59:38 << 250 2.0.0 OK 1523219378 r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:38 >> QUIT<EOL>
+18-04-09 01:59:38 << 221 2.0.0 closing connection r70sm30708833pfe.22 - gsmtp<EOL>
+18-04-09 01:59:38 ** Disconnected.
+18-04-09 01:59:38 ** Disconnected.
+18-04-09 01:59:38 ** Disconnected.
+18-04-09 02:03:56 ** --- MESSAGE BEGIN ---
+18-04-09 02:03:56 ** To: mohitkhosla70@gmail.com
+18-04-09 02:03:56 ** Subject: testing
+18-04-09 02:03:56 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 02:03:56 ** From: mohitkhosla70@gmail.com
+18-04-09 02:03:56 ** 
+18-04-09 02:03:56 ** dsf
+18-04-09 02:03:56 ** --- MESSAGE END ---
+18-04-09 02:03:57 ** Connecting to smtp.gmail.com:587
+18-04-09 02:03:58 ** Connected.
+18-04-09 02:03:58 << 220 smtp.gmail.com ESMTP p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:03:58 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 02:03:58 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 02:03:58 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 02:03:58 >> STARTTLS<EOL>
+18-04-09 02:03:59 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 02:03:59 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 02:03:59 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 02:03:59 >> AUTH LOGIN<EOL>
+18-04-09 02:04:00 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 02:04:00 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 02:04:00 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 02:04:00 >> cmlraWRvdGEy<EOL>
+18-04-09 02:04:00 << 235 2.7.0 Accepted<EOL>
+18-04-09 02:04:00 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 02:04:00 << 250 2.1.0 OK p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:04:00 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 02:04:01 << 250 2.1.5 OK p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:04:01 >> DATA<EOL>
+18-04-09 02:04:01 << 354  Go ahead p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:04:01 >> Date: Mon, 9 Apr 2018 02:04:01 +0530<EOL>
+18-04-09 02:04:01 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 02:04:01 >> Subject: testing<EOL>
+18-04-09 02:04:01 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 02:04:01 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 02:04:01 >> <EOL>
+18-04-09 02:04:01 >> dsf<EOL>
+18-04-09 02:04:01 >> .<EOL>
+18-04-09 02:04:03 << 250 2.0.0 OK 1523219643 p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:04:03 >> QUIT<EOL>
+18-04-09 02:04:03 << 221 2.0.0 closing connection p71sm32238053pfl.89 - gsmtp<EOL>
+18-04-09 02:04:03 ** Disconnected.
+18-04-09 02:04:03 ** Disconnected.
+18-04-09 02:04:03 ** Disconnected.
+18-04-09 02:04:47 ** --- MESSAGE BEGIN ---
+18-04-09 02:04:47 ** To: mohitkhosla70@gmail.com
+18-04-09 02:04:47 ** Subject: fff
+18-04-09 02:04:47 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 02:04:47 ** From: mohitkhosla70@gmail.com
+18-04-09 02:04:47 ** 
+18-04-09 02:04:47 ** fff
+18-04-09 02:04:47 ** --- MESSAGE END ---
+18-04-09 02:04:48 ** Connecting to smtp.gmail.com:587
+18-04-09 02:04:49 ** Connected.
+18-04-09 02:04:49 << 220 smtp.gmail.com ESMTP t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:49 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 02:04:49 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 02:04:49 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 02:04:49 >> STARTTLS<EOL>
+18-04-09 02:04:50 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 02:04:50 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 02:04:50 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 02:04:50 >> AUTH LOGIN<EOL>
+18-04-09 02:04:50 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 02:04:50 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 02:04:51 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 02:04:51 >> cmlraWRvdGEy<EOL>
+18-04-09 02:04:51 << 235 2.7.0 Accepted<EOL>
+18-04-09 02:04:51 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 02:04:51 << 250 2.1.0 OK t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:51 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 02:04:52 << 250 2.1.5 OK t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:52 >> DATA<EOL>
+18-04-09 02:04:52 << 354  Go ahead t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:52 >> Date: Mon, 9 Apr 2018 02:04:52 +0530<EOL>
+18-04-09 02:04:52 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 02:04:52 >> Subject: fff<EOL>
+18-04-09 02:04:52 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 02:04:52 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 02:04:52 >> <EOL>
+18-04-09 02:04:52 >> fff<EOL>
+18-04-09 02:04:52 >> .<EOL>
+18-04-09 02:04:53 << 250 2.0.0 OK 1523219694 t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:53 >> QUIT<EOL>
+18-04-09 02:04:54 << 221 2.0.0 closing connection t25sm26419928pfh.184 - gsmtp<EOL>
+18-04-09 02:04:54 ** Disconnected.
+18-04-09 02:04:54 ** Disconnected.
+18-04-09 02:04:54 ** Disconnected.
+18-04-09 03:22:43 ** --- MESSAGE BEGIN ---
+18-04-09 03:22:43 ** To: mohitkhosla70@gmail.com
+18-04-09 03:22:43 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 03:22:43 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 03:22:43 ** From: Team
+18-04-09 03:22:43 ** 
+18-04-09 03:22:43 ** We'll get back to you soon
+18-04-09 03:22:43 ** --- MESSAGE END ---
+18-04-09 03:22:44 ** Connecting to smtp.gmail.com:587
+18-04-09 03:22:45 ** Connected.
+18-04-09 03:22:45 << 220 smtp.gmail.com ESMTP r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:45 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 03:22:45 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 03:22:45 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 03:22:45 >> STARTTLS<EOL>
+18-04-09 03:22:45 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 03:22:45 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 03:22:45 << 250-smtp.gmail.com at your service, [150.107.40.19]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 03:22:45 >> AUTH LOGIN<EOL>
+18-04-09 03:22:46 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 03:22:46 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 03:22:46 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 03:22:46 >> cmlraWRvdGEy<EOL>
+18-04-09 03:22:46 << 235 2.7.0 Accepted<EOL>
+18-04-09 03:22:46 >> MAIL FROM: <Team@><EOL>
+18-04-09 03:22:47 << 250 2.1.0 OK r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:47 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 03:22:47 << 250 2.1.5 OK r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:47 >> DATA<EOL>
+18-04-09 03:22:48 << 354  Go ahead r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:48 >> Date: Mon, 9 Apr 2018 03:22:48 +0530<EOL>
+18-04-09 03:22:48 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 03:22:48 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-09 03:22:48 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-09 03:22:48 >> From: Team<EOL>
+18-04-09 03:22:48 >> <EOL>
+18-04-09 03:22:48 >> We'll get back to you soon<EOL>
+18-04-09 03:22:48 >> .<EOL>
+18-04-09 03:22:49 << 250 2.0.0 OK 1523224369 r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:49 >> QUIT<EOL>
+18-04-09 03:22:49 << 221 2.0.0 closing connection r8sm25623251pgn.19 - gsmtp<EOL>
+18-04-09 03:22:49 ** Disconnecting from smtp.gmail.com:587
+18-04-09 03:22:49 ** Disconnected.
+18-04-09 03:22:49 ** Disconnected.
+18-04-09 11:41:31 ** --- MESSAGE BEGIN ---
+18-04-09 11:41:31 ** To: 27maddiep@gmail.com
+18-04-09 11:41:31 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:41:31 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:41:31 ** From: Team
+18-04-09 11:41:31 ** 
+18-04-09 11:41:31 ** Greeting! We'll get back to you soon.
+18-04-09 11:41:31 ** --- MESSAGE END ---
+18-04-09 11:41:32 ** Connecting to smtp.gmail.com:587
+18-04-09 11:41:33 ** Connected.
+18-04-09 11:41:33 << 220 smtp.gmail.com ESMTP b5sm30695596pfc.87 - gsmtp<EOL>
+18-04-09 11:41:33 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:41:33 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:41:33 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:41:33 >> STARTTLS<EOL>
+18-04-09 11:41:33 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:41:34 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:41:35 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:41:35 >> AUTH LOGIN<EOL>
+18-04-09 11:41:35 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:41:35 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:41:35 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:41:35 >> cmlraWRvdGEy<EOL>
+18-04-09 11:41:36 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvZ<EOL>534-5.7.14 n-8m9waxEAjcp4r0zosTQammNvpFsZGPrkRrrX-fxpRla1rRTMFI8tfm_n15S2A_I5U-fU<EOL>534-5.7.14 FnNoAhioAcmy2wtWr20nvgEoXpXIIrxqsmpbH2knoWMYVxuKr0GVjua1c7eF9hJBrm5EGa<EOL>534-5.7.14 q9nvEeX8O0nTDkOdQBDuXpVPvReFlu98Z9oxBMW79DUb4i4nrRmbBFshrmmQwdyzaTFiJu<EOL>534-5.7.14 2PLhMU4cP3SLqN6yet4DLKiinj7yU> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 b5sm30695596pfc.87 - gsmtp<EOL>
+18-04-09 11:41:36 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:41:36 ** Disconnected.
+18-04-09 11:41:36 ** Disconnected.
+18-04-09 11:41:36 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvZ<EOL>n-8m9waxEAjcp4r0zosTQammNvpFsZGPrkRrrX-fxpRla1rRTMFI8tfm_n15S2A_I5U-fU<EOL>FnNoAhioAcmy2wtWr20nvgEoXpXIIrxqsmpbH2knoWMYVxuKr0GVjua1c7eF9hJBrm5EGa<EOL>q9nvEeX8O0nTDkOdQBDuXpVPvReFlu98Z9oxBMW79DUb4i4nrRmbBFshrmmQwdyzaTFiJu<EOL>2PLhMU4cP3SLqN6yet4DLKiinj7yU> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 b5sm30695596pfc.87 - gsmtp<EOL>
+18-04-09 11:42:08 ** --- MESSAGE BEGIN ---
+18-04-09 11:42:08 ** To: mohitkhosla70@gmail.com
+18-04-09 11:42:08 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:42:08 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:42:08 ** From: Team
+18-04-09 11:42:08 ** 
+18-04-09 11:42:08 ** Greeting! We'll get back to you soon.
+18-04-09 11:42:08 ** --- MESSAGE END ---
+18-04-09 11:42:09 ** Connecting to smtp.gmail.com:587
+18-04-09 11:42:10 ** Connected.
+18-04-09 11:42:10 << 220 smtp.gmail.com ESMTP j15sm14141835pfn.62 - gsmtp<EOL>
+18-04-09 11:42:10 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:42:10 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:42:10 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:42:10 >> STARTTLS<EOL>
+18-04-09 11:42:10 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:42:11 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:42:11 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:42:11 >> AUTH LOGIN<EOL>
+18-04-09 11:42:11 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:42:11 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:42:11 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:42:11 >> cmlraWRvdGEy<EOL>
+18-04-09 11:42:13 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsp<EOL>534-5.7.14 kI0W80-w5spI0IlR23AGPxjKvJbm8jC7l8N3wooYZleBeJvPthL18b_dL8v75tXfgZ5yhg<EOL>534-5.7.14 vRMOpZgdxlJbANkvtr_D47b3Xal6JhIzxkCSUQDM_zyKBvtg19zC4I-GYt0xUlB9sSafqf<EOL>534-5.7.14 OlEoFHDCNXMBnrELTZqEsHjFv_yx4oI3oZkIqmgL3Ms8J7CnV1hD6B79N9KM5AoLxXYk05<EOL>534-5.7.14 bsKzTm9zlm7ShNiYDAAHKCuvUvDrQ> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 j15sm14141835pfn.62 - gsmtp<EOL>
+18-04-09 11:42:13 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:42:13 ** Disconnected.
+18-04-09 11:42:13 ** Disconnected.
+18-04-09 11:42:13 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsp<EOL>kI0W80-w5spI0IlR23AGPxjKvJbm8jC7l8N3wooYZleBeJvPthL18b_dL8v75tXfgZ5yhg<EOL>vRMOpZgdxlJbANkvtr_D47b3Xal6JhIzxkCSUQDM_zyKBvtg19zC4I-GYt0xUlB9sSafqf<EOL>OlEoFHDCNXMBnrELTZqEsHjFv_yx4oI3oZkIqmgL3Ms8J7CnV1hD6B79N9KM5AoLxXYk05<EOL>bsKzTm9zlm7ShNiYDAAHKCuvUvDrQ> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 j15sm14141835pfn.62 - gsmtp<EOL>
+18-04-09 11:42:35 ** --- MESSAGE BEGIN ---
+18-04-09 11:42:35 ** To: mohitkhosla70@gmail.com
+18-04-09 11:42:35 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:42:35 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:42:35 ** From: Team
+18-04-09 11:42:35 ** 
+18-04-09 11:42:35 ** Greeting! We'll get back to you soon.
+18-04-09 11:42:35 ** --- MESSAGE END ---
+18-04-09 11:42:36 ** Connecting to smtp.gmail.com:587
+18-04-09 11:42:37 ** Connected.
+18-04-09 11:42:37 << 220 smtp.gmail.com ESMTP c28sm33631345pfe.27 - gsmtp<EOL>
+18-04-09 11:42:37 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:42:37 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:42:37 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:42:37 >> STARTTLS<EOL>
+18-04-09 11:42:38 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:42:38 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:42:38 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:42:38 >> AUTH LOGIN<EOL>
+18-04-09 11:42:39 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:42:39 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:42:39 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:42:39 >> cmlraWRvdGEy<EOL>
+18-04-09 11:42:40 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuZ<EOL>534-5.7.14 VaZK2sFwQ3QxRinZYnGbGvgP0mZKZLEgpb3Lck8Sna-92rujMSRF5U14tJsAQ1txd3tz5S<EOL>534-5.7.14 iNjX83w1bMVNpVn1NdkY9B_tpsIGTUP3TtH95p8frSXzTkQj30YUqWgQocsC6q3DAKf-84<EOL>534-5.7.14 66DV9F3QpU2NhYo6vwjJkrZYphO6xYV0DTOK3lkHciT8HJrox4Yf6pVsbI_U_VdialN5Ow<EOL>534-5.7.14 pHlzVsnWYY0ncuZ8o3_EHlI-5Zk7s> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 c28sm33631345pfe.27 - gsmtp<EOL>
+18-04-09 11:42:40 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:42:40 ** Disconnected.
+18-04-09 11:42:40 ** Disconnected.
+18-04-09 11:42:40 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuZ<EOL>VaZK2sFwQ3QxRinZYnGbGvgP0mZKZLEgpb3Lck8Sna-92rujMSRF5U14tJsAQ1txd3tz5S<EOL>iNjX83w1bMVNpVn1NdkY9B_tpsIGTUP3TtH95p8frSXzTkQj30YUqWgQocsC6q3DAKf-84<EOL>66DV9F3QpU2NhYo6vwjJkrZYphO6xYV0DTOK3lkHciT8HJrox4Yf6pVsbI_U_VdialN5Ow<EOL>pHlzVsnWYY0ncuZ8o3_EHlI-5Zk7s> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 c28sm33631345pfe.27 - gsmtp<EOL>
+18-04-09 11:43:35 ** --- MESSAGE BEGIN ---
+18-04-09 11:43:35 ** To: avishajadhav91@gmail.com
+18-04-09 11:43:35 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:43:35 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:43:35 ** From: Team
+18-04-09 11:43:35 ** 
+18-04-09 11:43:35 ** Greeting! We'll get back to you soon.
+18-04-09 11:43:35 ** --- MESSAGE END ---
+18-04-09 11:43:36 ** Connecting to smtp.gmail.com:587
+18-04-09 11:43:36 ** Connected.
+18-04-09 11:43:37 << 220 smtp.gmail.com ESMTP t128sm27530297pgb.50 - gsmtp<EOL>
+18-04-09 11:43:37 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:43:38 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:43:38 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:43:38 >> STARTTLS<EOL>
+18-04-09 11:43:40 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:43:42 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:43:42 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:43:42 >> AUTH LOGIN<EOL>
+18-04-09 11:43:43 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:43:43 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:43:43 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:43:43 >> cmlraWRvdGEy<EOL>
+18-04-09 11:43:43 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsP<EOL>534-5.7.14 lJ6CplgemhRexULJN_prsc_U8Vvmp8CxfKtug2DhEj72eGLHef-W5gSDH_jtQNqh5JiMU5<EOL>534-5.7.14 4lKZNzyfj8qPDAoZIq56lrfvx7wDPxOkMoN_68VoZ7xMppAwbAZyJyumVfLQJ1KW7BMKDs<EOL>534-5.7.14 KYnD1Er5Kmhqepb4EW3JOq2aiv0IwedJSgOw4WgeHc_mIQBkxAP-NeAdooTTVHB8UdQCi0<EOL>534-5.7.14 aTEuixot8AN70IRm7EeLKzjnOULBM> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 t128sm27530297pgb.50 - gsmtp<EOL>
+18-04-09 11:43:43 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:43:43 ** Disconnected.
+18-04-09 11:43:43 ** Disconnected.
+18-04-09 11:43:43 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsP<EOL>lJ6CplgemhRexULJN_prsc_U8Vvmp8CxfKtug2DhEj72eGLHef-W5gSDH_jtQNqh5JiMU5<EOL>4lKZNzyfj8qPDAoZIq56lrfvx7wDPxOkMoN_68VoZ7xMppAwbAZyJyumVfLQJ1KW7BMKDs<EOL>KYnD1Er5Kmhqepb4EW3JOq2aiv0IwedJSgOw4WgeHc_mIQBkxAP-NeAdooTTVHB8UdQCi0<EOL>aTEuixot8AN70IRm7EeLKzjnOULBM> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 t128sm27530297pgb.50 - gsmtp<EOL>
+18-04-09 11:44:06 ** --- MESSAGE BEGIN ---
+18-04-09 11:44:06 ** To: mohitkhosla70@gmail.com
+18-04-09 11:44:06 ** Subject: sasa
+18-04-09 11:44:06 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 11:44:06 ** From: mohitkhosla70@gmail.com
+18-04-09 11:44:06 ** 
+18-04-09 11:44:06 ** asas
+18-04-09 11:44:06 ** --- MESSAGE END ---
+18-04-09 11:44:07 ** Connecting to smtp.gmail.com:587
+18-04-09 11:44:11 ** Connected.
+18-04-09 11:44:11 << 220 smtp.gmail.com ESMTP b5sm30709055pfc.87 - gsmtp<EOL>
+18-04-09 11:44:11 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:44:46 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:44:46 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:44:46 >> STARTTLS<EOL>
+18-04-09 11:45:37 ** Disconnected.
+18-04-09 11:45:37 ** Disconnected.
+18-04-09 11:45:37 ** Disconnected.
+18-04-09 11:45:37 ** Socket Error # 10054<EOL>Connection reset by peer.
+18-04-09 11:46:22 ** --- MESSAGE BEGIN ---
+18-04-09 11:46:22 ** To: mohitkhosla70@gmail.com
+18-04-09 11:46:22 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:46:22 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:46:22 ** From: Team
+18-04-09 11:46:22 ** 
+18-04-09 11:46:22 ** Greeting! We'll get back to you soon.
+18-04-09 11:46:22 ** --- MESSAGE END ---
+18-04-09 11:46:23 ** Connecting to smtp.gmail.com:587
+18-04-09 11:46:24 ** Connected.
+18-04-09 11:46:24 << 220 smtp.gmail.com ESMTP w27sm27675588pge.20 - gsmtp<EOL>
+18-04-09 11:46:24 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:46:25 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:46:25 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:46:25 >> STARTTLS<EOL>
+18-04-09 11:46:25 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:46:25 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:46:25 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:46:25 >> AUTH LOGIN<EOL>
+18-04-09 11:46:26 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:46:26 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:46:26 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:46:26 >> cmlraWRvdGEy<EOL>
+18-04-09 11:46:26 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtt<EOL>534-5.7.14 8eELY9HmtBcmiLVVIphxFqCh9eOyCF8a6boGe-4K5lu7mzHxCBQi2Ou1U5tdCKmIgLoLL8<EOL>534-5.7.14 wBebQhP4Cfxq3PdyqXqkD4EAjhNMoZQb0_5DwtRbrsDohzYWT9n7Z2HLNrk1b7EkSkjfEL<EOL>534-5.7.14 AYQY-S_Ow745q1pNhLjjRb0401BdDVIlfkI2tLx_7aa3bDyYVMQfmtPoc2o55zxPRS2jM3<EOL>534-5.7.14 cWrBbxQUeF0JDSF3zdKEdIP8ynJeU> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 w27sm27675588pge.20 - gsmtp<EOL>
+18-04-09 11:46:26 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:46:26 ** Disconnected.
+18-04-09 11:46:26 ** Disconnected.
+18-04-09 11:46:26 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtt<EOL>8eELY9HmtBcmiLVVIphxFqCh9eOyCF8a6boGe-4K5lu7mzHxCBQi2Ou1U5tdCKmIgLoLL8<EOL>wBebQhP4Cfxq3PdyqXqkD4EAjhNMoZQb0_5DwtRbrsDohzYWT9n7Z2HLNrk1b7EkSkjfEL<EOL>AYQY-S_Ow745q1pNhLjjRb0401BdDVIlfkI2tLx_7aa3bDyYVMQfmtPoc2o55zxPRS2jM3<EOL>cWrBbxQUeF0JDSF3zdKEdIP8ynJeU> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 w27sm27675588pge.20 - gsmtp<EOL>
+18-04-09 11:46:43 ** --- MESSAGE BEGIN ---
+18-04-09 11:46:43 ** To: mohitkhosla70@gmail.com
+18-04-09 11:46:43 ** Subject: test
+18-04-09 11:46:43 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 11:46:43 ** From: mohitkhosla70@gmail.com
+18-04-09 11:46:43 ** 
+18-04-09 11:46:43 ** test
+18-04-09 11:46:43 ** --- MESSAGE END ---
+18-04-09 11:46:44 ** Connecting to smtp.gmail.com:587
+18-04-09 11:46:45 ** Connected.
+18-04-09 11:46:45 << 220 smtp.gmail.com ESMTP z13sm34005886pfk.129 - gsmtp<EOL>
+18-04-09 11:46:45 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:46:45 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:46:45 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:46:45 >> STARTTLS<EOL>
+18-04-09 11:46:45 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:46:45 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:46:46 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:46:46 >> AUTH LOGIN<EOL>
+18-04-09 11:46:46 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:46:46 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:46:46 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:46:46 >> cmlraWRvdGEy<EOL>
+18-04-09 11:46:47 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsO<EOL>534-5.7.14 8Bk2OsR3h2A1ZrAL6VwJt8-_KFg1vfPpAigMS6hnorzMnmD6RHWtGv5FKlmHs2qm8ROoP3<EOL>534-5.7.14 OZfnNWkbZjyOKpPAXfl3EItVRzCZ8fseJ-g5Za2jwYR20KIVPifEPCithBt0GoJ_UYLxcW<EOL>534-5.7.14 crTrY3bv6G85TpbYWzDaGkOxfWALLPFaE9f5wx2p89XEuxbIwY588ICwOv1Uh_ZbyioHsV<EOL>534-5.7.14 lMKnqe1mn-viCgX-58EexKCBZFaYs> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 z13sm34005886pfk.129 - gsmtp<EOL>
+18-04-09 11:46:47 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:46:47 ** Disconnected.
+18-04-09 11:46:47 ** Disconnected.
+18-04-09 11:46:47 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbsO<EOL>8Bk2OsR3h2A1ZrAL6VwJt8-_KFg1vfPpAigMS6hnorzMnmD6RHWtGv5FKlmHs2qm8ROoP3<EOL>OZfnNWkbZjyOKpPAXfl3EItVRzCZ8fseJ-g5Za2jwYR20KIVPifEPCithBt0GoJ_UYLxcW<EOL>crTrY3bv6G85TpbYWzDaGkOxfWALLPFaE9f5wx2p89XEuxbIwY588ICwOv1Uh_ZbyioHsV<EOL>lMKnqe1mn-viCgX-58EexKCBZFaYs> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 z13sm34005886pfk.129 - gsmtp<EOL>
+18-04-09 11:47:42 ** --- MESSAGE BEGIN ---
+18-04-09 11:47:42 ** To: mohitkhosla70@gmail.com
+18-04-09 11:47:42 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:47:42 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:47:42 ** From: Team
+18-04-09 11:47:42 ** 
+18-04-09 11:47:42 ** Greeting! We'll get back to you soon.
+18-04-09 11:47:42 ** --- MESSAGE END ---
+18-04-09 11:47:43 ** Connecting to smtp.gmail.com:587
+18-04-09 11:47:43 ** Connected.
+18-04-09 11:47:43 << 220 smtp.gmail.com ESMTP t15sm25983978pfh.76 - gsmtp<EOL>
+18-04-09 11:47:43 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:47:44 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:47:44 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:47:44 >> STARTTLS<EOL>
+18-04-09 11:47:44 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:47:44 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:47:44 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:47:44 >> AUTH LOGIN<EOL>
+18-04-09 11:47:45 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:47:45 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:47:45 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:47:45 >> cmlraWRvdGEy<EOL>
+18-04-09 11:47:46 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu_<EOL>534-5.7.14 yKsjFfwhTRfN6w0KT4ptb1N-RB3Foczg-HrWfF2-ivyxlAIZ1wN0SM_EtIrPwqjpc3TWTl<EOL>534-5.7.14 wFgvX59Yg_aFr7QNUxe9f2NFAMxrgjuB2-1WJMxfUSXaG0aAIJOLH6pe43oRBR16kVYxB8<EOL>534-5.7.14 Ps470DnzXmEuKQOLWao4XvF4ARsBuS46lH60AbKnGH4JogvZQkzaJ-YHfLUQI05UwqP2Lo<EOL>534-5.7.14 JYkBRaQBlfLslm0n9JCmqQ3VHmWvA> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 t15sm25983978pfh.76 - gsmtp<EOL>
+18-04-09 11:47:46 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:47:46 ** Disconnected.
+18-04-09 11:47:46 ** Disconnected.
+18-04-09 11:47:46 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu_<EOL>yKsjFfwhTRfN6w0KT4ptb1N-RB3Foczg-HrWfF2-ivyxlAIZ1wN0SM_EtIrPwqjpc3TWTl<EOL>wFgvX59Yg_aFr7QNUxe9f2NFAMxrgjuB2-1WJMxfUSXaG0aAIJOLH6pe43oRBR16kVYxB8<EOL>Ps470DnzXmEuKQOLWao4XvF4ARsBuS46lH60AbKnGH4JogvZQkzaJ-YHfLUQI05UwqP2Lo<EOL>JYkBRaQBlfLslm0n9JCmqQ3VHmWvA> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 t15sm25983978pfh.76 - gsmtp<EOL>
+18-04-09 11:48:46 ** --- MESSAGE BEGIN ---
+18-04-09 11:48:46 ** To: mohitkhosla70@gmail.com
+18-04-09 11:48:46 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:48:46 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:48:46 ** From: Team
+18-04-09 11:48:46 ** 
+18-04-09 11:48:46 ** Greeting! We'll get back to you soon.
+18-04-09 11:48:46 ** --- MESSAGE END ---
+18-04-09 11:48:47 ** Connecting to smtp.gmail.com:587
+18-04-09 11:48:47 ** Connected.
+18-04-09 11:48:47 << 220 smtp.gmail.com ESMTP w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:47 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:48:48 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:48:48 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:48:48 >> STARTTLS<EOL>
+18-04-09 11:48:48 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:48:48 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:48:49 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:48:49 >> AUTH LOGIN<EOL>
+18-04-09 11:48:49 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:48:49 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:48:49 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:48:49 >> cmlraWRvdGEy<EOL>
+18-04-09 11:48:50 << 235 2.7.0 Accepted<EOL>
+18-04-09 11:48:50 >> MAIL FROM: <Team@><EOL>
+18-04-09 11:48:50 << 250 2.1.0 OK w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:50 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 11:48:50 << 250 2.1.5 OK w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:50 >> DATA<EOL>
+18-04-09 11:48:51 << 354  Go ahead w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:51 >> Date: Mon, 9 Apr 2018 11:48:51 +0530<EOL>
+18-04-09 11:48:51 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 11:48:51 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-09 11:48:51 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-09 11:48:51 >> From: Team<EOL>
+18-04-09 11:48:51 >> <EOL>
+18-04-09 11:48:51 >> Greeting! We'll get back to you soon.<EOL>
+18-04-09 11:48:51 >> .<EOL>
+18-04-09 11:48:52 << 250 2.0.0 OK 1523254732 w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:52 >> QUIT<EOL>
+18-04-09 11:48:52 << 221 2.0.0 closing connection w88sm31185522pfa.150 - gsmtp<EOL>
+18-04-09 11:48:52 ** Disconnected.
+18-04-09 11:48:52 ** Disconnected.
+18-04-09 11:48:52 ** Disconnected.
+18-04-09 11:49:32 ** --- MESSAGE BEGIN ---
+18-04-09 11:49:32 ** To: avishajadhav91@gmail.com
+18-04-09 11:49:32 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:49:32 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:49:32 ** From: Team
+18-04-09 11:49:32 ** 
+18-04-09 11:49:32 ** Greeting! We'll get back to you soon.
+18-04-09 11:49:32 ** --- MESSAGE END ---
+18-04-09 11:49:33 ** Connecting to smtp.gmail.com:587
+18-04-09 11:49:33 ** Connected.
+18-04-09 11:49:33 << 220 smtp.gmail.com ESMTP a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:33 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:49:34 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:49:34 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:49:34 >> STARTTLS<EOL>
+18-04-09 11:49:34 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:49:34 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:49:35 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:49:35 >> AUTH LOGIN<EOL>
+18-04-09 11:49:35 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:49:35 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:49:35 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:49:35 >> cmlraWRvdGEy<EOL>
+18-04-09 11:49:35 << 235 2.7.0 Accepted<EOL>
+18-04-09 11:49:35 >> MAIL FROM: <Team@><EOL>
+18-04-09 11:49:36 << 250 2.1.0 OK a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:36 >> RCPT TO: <avishajadhav91@gmail.com><EOL>
+18-04-09 11:49:36 << 250 2.1.5 OK a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:36 >> DATA<EOL>
+18-04-09 11:49:37 << 354  Go ahead a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:37 >> Date: Mon, 9 Apr 2018 11:49:37 +0530<EOL>
+18-04-09 11:49:37 >> To: avishajadhav91@gmail.com<EOL>
+18-04-09 11:49:37 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-09 11:49:37 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-09 11:49:37 >> From: Team<EOL>
+18-04-09 11:49:37 >> <EOL>
+18-04-09 11:49:37 >> Greeting! We'll get back to you soon.<EOL>
+18-04-09 11:49:37 >> .<EOL>
+18-04-09 11:49:38 << 250 2.0.0 OK 1523254778 a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:38 >> QUIT<EOL>
+18-04-09 11:49:38 << 221 2.0.0 closing connection a22sm26451071pgw.10 - gsmtp<EOL>
+18-04-09 11:49:38 ** Disconnected.
+18-04-09 11:49:38 ** Disconnected.
+18-04-09 11:49:38 ** Disconnected.
+18-04-09 11:50:19 ** --- MESSAGE BEGIN ---
+18-04-09 11:50:19 ** To: mohitkhosla70@gmail.com
+18-04-09 11:50:19 ** Subject: Test from Contact US
+18-04-09 11:50:19 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 11:50:19 ** From: mohitkhosla70@gmail.com
+18-04-09 11:50:19 ** 
+18-04-09 11:50:19 ** Test
+18-04-09 11:50:19 ** --- MESSAGE END ---
+18-04-09 11:50:20 ** Connecting to smtp.gmail.com:587
+18-04-09 11:50:20 ** Connected.
+18-04-09 11:50:20 << 220 smtp.gmail.com ESMTP q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:20 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:50:20 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:50:20 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:50:20 >> STARTTLS<EOL>
+18-04-09 11:50:21 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:50:21 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:50:21 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:50:21 >> AUTH LOGIN<EOL>
+18-04-09 11:50:21 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:50:21 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:50:22 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:50:22 >> cmlraWRvdGEy<EOL>
+18-04-09 11:50:22 << 235 2.7.0 Accepted<EOL>
+18-04-09 11:50:22 >> MAIL FROM: <mohitkhosla70@gmail.com><EOL>
+18-04-09 11:50:23 << 250 2.1.0 OK q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:23 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-09 11:50:23 << 250 2.1.5 OK q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:23 >> DATA<EOL>
+18-04-09 11:50:23 << 354  Go ahead q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:23 >> Date: Mon, 9 Apr 2018 11:50:23 +0530<EOL>
+18-04-09 11:50:23 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-09 11:50:23 >> Subject: Test from Contact US<EOL>
+18-04-09 11:50:23 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 11:50:23 >> From: mohitkhosla70@gmail.com<EOL>
+18-04-09 11:50:23 >> <EOL>
+18-04-09 11:50:23 >> Test<EOL>
+18-04-09 11:50:23 >> .<EOL>
+18-04-09 11:50:25 << 250 2.0.0 OK 1523254825 q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:25 >> QUIT<EOL>
+18-04-09 11:50:25 << 221 2.0.0 closing connection q75sm31786005pfj.99 - gsmtp<EOL>
+18-04-09 11:50:25 ** Disconnected.
+18-04-09 11:50:25 ** Disconnected.
+18-04-09 11:50:25 ** Disconnected.
+18-04-09 11:50:47 ** --- MESSAGE BEGIN ---
+18-04-09 11:50:47 ** To: avishajadhav91@gmail.com
+18-04-09 11:50:47 ** Subject: Test from Contact US
+18-04-09 11:50:47 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-09 11:50:47 ** From: avishajadhav91@gmail.com
+18-04-09 11:50:47 ** 
+18-04-09 11:50:47 ** Test
+18-04-09 11:50:47 ** --- MESSAGE END ---
+18-04-09 11:50:48 ** Connecting to smtp.gmail.com:587
+18-04-09 11:50:49 ** Connected.
+18-04-09 11:50:49 << 220 smtp.gmail.com ESMTP 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:49 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:50:49 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:50:49 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:50:49 >> STARTTLS<EOL>
+18-04-09 11:50:49 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:50:50 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:50:50 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:50:50 >> AUTH LOGIN<EOL>
+18-04-09 11:50:50 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:50:50 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:50:50 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:50:50 >> cmlraWRvdGEy<EOL>
+18-04-09 11:50:51 << 235 2.7.0 Accepted<EOL>
+18-04-09 11:50:51 >> MAIL FROM: <avishajadhav91@gmail.com><EOL>
+18-04-09 11:50:51 << 250 2.1.0 OK 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:51 >> RCPT TO: <avishajadhav91@gmail.com><EOL>
+18-04-09 11:50:51 << 250 2.1.5 OK 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:51 >> DATA<EOL>
+18-04-09 11:50:52 << 354  Go ahead 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:52 >> Date: Mon, 9 Apr 2018 11:50:52 +0530<EOL>
+18-04-09 11:50:52 >> To: avishajadhav91@gmail.com<EOL>
+18-04-09 11:50:52 >> Subject: Test from Contact US<EOL>
+18-04-09 11:50:52 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-09 11:50:52 >> From: avishajadhav91@gmail.com<EOL>
+18-04-09 11:50:52 >> <EOL>
+18-04-09 11:50:52 >> Test<EOL>
+18-04-09 11:50:52 >> .<EOL>
+18-04-09 11:50:53 << 250 2.0.0 OK 1523254854 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:53 >> QUIT<EOL>
+18-04-09 11:50:53 << 221 2.0.0 closing connection 67sm32489702pfp.122 - gsmtp<EOL>
+18-04-09 11:50:53 ** Disconnected.
+18-04-09 11:50:53 ** Disconnected.
+18-04-09 11:50:53 ** Disconnected.
+18-04-09 11:58:11 ** --- MESSAGE BEGIN ---
+18-04-09 11:58:11 ** To: pratikvartak96@gmail.com
+18-04-09 11:58:11 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:58:11 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:58:11 ** From: Team
+18-04-09 11:58:11 ** 
+18-04-09 11:58:11 ** Greeting! We'll get back to you soon.
+18-04-09 11:58:11 ** --- MESSAGE END ---
+18-04-09 11:58:12 ** Connecting to smtp.gmail.com:587
+18-04-09 11:58:12 ** Connected.
+18-04-09 11:58:12 << 220 smtp.gmail.com ESMTP q67sm33471768pfg.39 - gsmtp<EOL>
+18-04-09 11:58:12 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:58:13 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:58:13 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:58:13 >> STARTTLS<EOL>
+18-04-09 11:58:13 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:58:14 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:58:14 << 250-smtp.gmail.com at your service, [49.33.226.190]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:58:14 >> AUTH LOGIN<EOL>
+18-04-09 11:58:14 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:58:14 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:58:15 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:58:15 >> cmlraWRvdGEy<EOL>
+18-04-09 11:58:16 << 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbun<EOL>534-5.7.14 v_eoQK6bTlkoA9kB4mZaUBePla1YHSWMHSS4xnU6jXCjPpD4T4bZAv9fGTx68WvSfvI5ds<EOL>534-5.7.14 POg-jgAUInsRTq7jE1BAcr0OgZHU8c9BeMuMnZOY1w24wH0VB-Qjuu-TgqEeHsqsvC5Wwj<EOL>534-5.7.14 C8eLv1P2rGLdNMPhelSlIZGQ5v6C3TXoek4-rSWsxRcFGfuK76BO-4kuZAz36gNuShUVbC<EOL>534-5.7.14 nBYuYy7kDeqOI9Wnbm_40W5e3vfmo> Please log in via your web browser and<EOL>534-5.7.14 then try again.<EOL>534-5.7.14  Learn more at<EOL>534 5.7.14  https://support.google.com/mail/answer/78754 q67sm33471768pfg.39 - gsmtp<EOL>
+18-04-09 11:58:16 ** Disconnecting from smtp.gmail.com:587
+18-04-09 11:58:16 ** Disconnected.
+18-04-09 11:58:16 ** Disconnected.
+18-04-09 11:58:16 ** <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbun<EOL>v_eoQK6bTlkoA9kB4mZaUBePla1YHSWMHSS4xnU6jXCjPpD4T4bZAv9fGTx68WvSfvI5ds<EOL>POg-jgAUInsRTq7jE1BAcr0OgZHU8c9BeMuMnZOY1w24wH0VB-Qjuu-TgqEeHsqsvC5Wwj<EOL>C8eLv1P2rGLdNMPhelSlIZGQ5v6C3TXoek4-rSWsxRcFGfuK76BO-4kuZAz36gNuShUVbC<EOL>nBYuYy7kDeqOI9Wnbm_40W5e3vfmo> Please log in via your web browser and<EOL>then try again.<EOL> Learn more at<EOL> https://support.google.com/mail/answer/78754 q67sm33471768pfg.39 - gsmtp<EOL>
+18-04-09 11:58:51 ** --- MESSAGE BEGIN ---
+18-04-09 11:58:51 ** To: pratikvartak96@gmail.com
+18-04-09 11:58:51 ** Subject: Thank you! Your booking has been confirmed.
+18-04-09 11:58:51 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-09 11:58:51 ** From: Team
+18-04-09 11:58:51 ** 
+18-04-09 11:58:51 ** Greeting! We'll get back to you soon.
+18-04-09 11:58:51 ** --- MESSAGE END ---
+18-04-09 11:58:52 ** Connecting to smtp.gmail.com:587
+18-04-09 11:58:53 ** Connected.
+18-04-09 11:58:53 << 220 smtp.gmail.com ESMTP z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:53 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:58:53 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:58:53 ** Authenticating as hostelportalcrce@gmail.com
+18-04-09 11:58:53 >> STARTTLS<EOL>
+18-04-09 11:58:54 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-09 11:58:54 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-09 11:58:54 << 250-smtp.gmail.com at your service, [223.189.57.147]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-09 11:58:54 >> AUTH LOGIN<EOL>
+18-04-09 11:58:55 << 334 VXNlcm5hbWU6<EOL>
+18-04-09 11:58:55 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-09 11:58:55 << 334 UGFzc3dvcmQ6<EOL>
+18-04-09 11:58:55 >> cmlraWRvdGEy<EOL>
+18-04-09 11:58:55 << 235 2.7.0 Accepted<EOL>
+18-04-09 11:58:55 >> MAIL FROM: <Team@><EOL>
+18-04-09 11:58:56 << 250 2.1.0 OK z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:56 >> RCPT TO: <pratikvartak96@gmail.com><EOL>
+18-04-09 11:58:56 << 250 2.1.5 OK z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:56 >> DATA<EOL>
+18-04-09 11:58:56 << 354  Go ahead z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:56 >> Date: Mon, 9 Apr 2018 11:58:56 +0530<EOL>
+18-04-09 11:58:56 >> To: pratikvartak96@gmail.com<EOL>
+18-04-09 11:58:56 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-09 11:58:56 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-09 11:58:56 >> From: Team<EOL>
+18-04-09 11:58:56 >> <EOL>
+18-04-09 11:58:56 >> Greeting! We'll get back to you soon.<EOL>
+18-04-09 11:58:56 >> .<EOL>
+18-04-09 11:58:58 << 250 2.0.0 OK 1523255338 z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:58 >> QUIT<EOL>
+18-04-09 11:58:58 << 221 2.0.0 closing connection z21sm28514663pge.42 - gsmtp<EOL>
+18-04-09 11:58:58 ** Disconnected.
+18-04-09 11:58:58 ** Disconnected.
+18-04-09 11:58:58 ** Disconnected.
+18-04-16 22:24:49 ** --- MESSAGE BEGIN ---
+18-04-16 22:24:49 ** To: mohitkhosla70@gmail.com
+18-04-16 22:24:49 ** Subject: Thank you! Your booking has been confirmed.
+18-04-16 22:24:49 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-16 22:24:49 ** From: Team
+18-04-16 22:24:49 ** 
+18-04-16 22:24:49 ** Greeting! We'll get back to you soon.
+18-04-16 22:24:49 ** --- MESSAGE END ---
+18-04-16 22:24:51 ** Connecting to smtp.gmail.com:587
+18-04-16 22:25:03 ** Disconnected.
+18-04-16 22:25:03 ** Disconnected.
+18-04-16 22:25:03 ** Disconnected.
+18-04-16 22:25:03 ** Socket Error # 11001<EOL>Host not found.
+18-04-16 22:25:31 ** --- MESSAGE BEGIN ---
+18-04-16 22:25:31 ** To: mohitkhosla70@gmail.com
+18-04-16 22:25:31 ** Subject: Thank you! Your booking has been confirmed.
+18-04-16 22:25:31 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-16 22:25:31 ** From: Team
+18-04-16 22:25:31 ** 
+18-04-16 22:25:31 ** Greeting! We'll get back to you soon.
+18-04-16 22:25:31 ** --- MESSAGE END ---
+18-04-16 22:25:32 ** Connecting to smtp.gmail.com:587
+18-04-16 22:25:34 ** Connected.
+18-04-16 22:25:34 << 220 smtp.gmail.com ESMTP p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:34 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-16 22:25:35 << 250-smtp.gmail.com at your service, [182.48.238.76]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-16 22:25:35 ** Authenticating as hostelportalcrce@gmail.com
+18-04-16 22:25:35 >> STARTTLS<EOL>
+18-04-16 22:25:35 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-16 22:25:36 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-16 22:25:36 << 250-smtp.gmail.com at your service, [182.48.238.76]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-16 22:25:36 >> AUTH LOGIN<EOL>
+18-04-16 22:25:36 << 334 VXNlcm5hbWU6<EOL>
+18-04-16 22:25:36 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-16 22:25:37 << 334 UGFzc3dvcmQ6<EOL>
+18-04-16 22:25:37 >> cmlraWRvdGEy<EOL>
+18-04-16 22:25:37 << 235 2.7.0 Accepted<EOL>
+18-04-16 22:25:37 >> MAIL FROM: <Team@><EOL>
+18-04-16 22:25:38 << 250 2.1.0 OK p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:38 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-16 22:25:38 << 250 2.1.5 OK p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:38 >> DATA<EOL>
+18-04-16 22:25:39 << 354  Go ahead p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:39 >> Date: Mon, 16 Apr 2018 22:25:39 +0530<EOL>
+18-04-16 22:25:39 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-16 22:25:39 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-16 22:25:39 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-16 22:25:39 >> From: Team<EOL>
+18-04-16 22:25:39 >> <EOL>
+18-04-16 22:25:39 >> Greeting! We'll get back to you soon.<EOL>
+18-04-16 22:25:39 >> .<EOL>
+18-04-16 22:25:40 << 250 2.0.0 OK 1523897740 p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:40 >> QUIT<EOL>
+18-04-16 22:25:41 << 221 2.0.0 closing connection p13sm563906pgn.18 - gsmtp<EOL>
+18-04-16 22:25:41 ** Disconnected.
+18-04-16 22:25:41 ** Disconnected.
+18-04-16 22:25:41 ** Disconnected.
+18-04-24 14:29:37 ** --- MESSAGE BEGIN ---
+18-04-24 14:29:37 ** To: pratikvartak96@gmail.com
+18-04-24 14:29:37 ** Subject: asa
+18-04-24 14:29:37 ** X-PHP-Originating-Script: 0:contact-form.php
+18-04-24 14:29:37 ** From: pratikvartak96@gmail.com
+18-04-24 14:29:37 ** 
+18-04-24 14:29:37 ** asa
+18-04-24 14:29:37 ** --- MESSAGE END ---
+18-04-24 14:29:39 ** Connecting to smtp.gmail.com:587
+18-04-24 14:29:41 ** Connected.
+18-04-24 14:29:41 << 220 smtp.gmail.com ESMTP z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:41 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-24 14:29:41 << 250-smtp.gmail.com at your service, [110.224.62.58]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-24 14:29:41 ** Authenticating as hostelportalcrce@gmail.com
+18-04-24 14:29:41 >> STARTTLS<EOL>
+18-04-24 14:29:42 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-24 14:29:42 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-24 14:29:42 << 250-smtp.gmail.com at your service, [110.224.62.58]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-24 14:29:42 >> AUTH LOGIN<EOL>
+18-04-24 14:29:43 << 334 VXNlcm5hbWU6<EOL>
+18-04-24 14:29:43 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-24 14:29:43 << 334 UGFzc3dvcmQ6<EOL>
+18-04-24 14:29:43 >> cmlraWRvdGEy<EOL>
+18-04-24 14:29:44 << 235 2.7.0 Accepted<EOL>
+18-04-24 14:29:44 >> MAIL FROM: <pratikvartak96@gmail.com><EOL>
+18-04-24 14:29:44 << 250 2.1.0 OK z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:44 >> RCPT TO: <pratikvartak96@gmail.com><EOL>
+18-04-24 14:29:44 << 250 2.1.5 OK z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:44 >> DATA<EOL>
+18-04-24 14:29:45 << 354  Go ahead z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:45 >> Date: Tue, 24 Apr 2018 14:29:45 +0530<EOL>
+18-04-24 14:29:45 >> To: pratikvartak96@gmail.com<EOL>
+18-04-24 14:29:45 >> Subject: asa<EOL>
+18-04-24 14:29:45 >> X-PHP-Originating-Script: 0:contact-form.php<EOL>
+18-04-24 14:29:45 >> From: pratikvartak96@gmail.com<EOL>
+18-04-24 14:29:45 >> <EOL>
+18-04-24 14:29:45 >> asa<EOL>
+18-04-24 14:29:45 >> .<EOL>
+18-04-24 14:29:47 << 250 2.0.0 OK 1524560386 z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:47 >> QUIT<EOL>
+18-04-24 14:29:47 << 221 2.0.0 closing connection z15sm36197192pgr.55 - gsmtp<EOL>
+18-04-24 14:29:47 ** Disconnected.
+18-04-24 14:29:47 ** Disconnected.
+18-04-24 14:29:47 ** Disconnected.
+18-04-24 14:32:46 ** --- MESSAGE BEGIN ---
+18-04-24 14:32:46 ** To: pratikvartak96@gmail.com
+18-04-24 14:32:46 ** Subject: Thank you! Your booking has been confirmed.
+18-04-24 14:32:46 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-24 14:32:46 ** From: Team
+18-04-24 14:32:46 ** 
+18-04-24 14:32:46 ** Greeting! We'll get back to you soon.
+18-04-24 14:32:46 ** --- MESSAGE END ---
+18-04-24 14:32:47 ** Connecting to smtp.gmail.com:587
+18-04-24 14:32:48 ** Connected.
+18-04-24 14:32:48 << 220 smtp.gmail.com ESMTP t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:48 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-24 14:32:49 << 250-smtp.gmail.com at your service, [110.224.62.58]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-24 14:32:49 ** Authenticating as hostelportalcrce@gmail.com
+18-04-24 14:32:49 >> STARTTLS<EOL>
+18-04-24 14:32:49 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-24 14:32:49 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-24 14:32:50 << 250-smtp.gmail.com at your service, [110.224.62.58]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-24 14:32:50 >> AUTH LOGIN<EOL>
+18-04-24 14:32:50 << 334 VXNlcm5hbWU6<EOL>
+18-04-24 14:32:50 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-24 14:32:50 << 334 UGFzc3dvcmQ6<EOL>
+18-04-24 14:32:50 >> cmlraWRvdGEy<EOL>
+18-04-24 14:32:51 << 235 2.7.0 Accepted<EOL>
+18-04-24 14:32:51 >> MAIL FROM: <Team@><EOL>
+18-04-24 14:32:51 << 250 2.1.0 OK t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:51 >> RCPT TO: <pratikvartak96@gmail.com><EOL>
+18-04-24 14:32:52 << 250 2.1.5 OK t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:52 >> DATA<EOL>
+18-04-24 14:32:52 << 354  Go ahead t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:52 >> Date: Tue, 24 Apr 2018 14:32:52 +0530<EOL>
+18-04-24 14:32:52 >> To: pratikvartak96@gmail.com<EOL>
+18-04-24 14:32:52 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-24 14:32:52 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-24 14:32:52 >> From: Team<EOL>
+18-04-24 14:32:52 >> <EOL>
+18-04-24 14:32:52 >> Greeting! We'll get back to you soon.<EOL>
+18-04-24 14:32:52 >> .<EOL>
+18-04-24 14:32:54 << 250 2.0.0 OK 1524560573 t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:54 >> QUIT<EOL>
+18-04-24 14:32:54 << 221 2.0.0 closing connection t64sm28076607pfi.34 - gsmtp<EOL>
+18-04-24 14:32:54 ** Disconnected.
+18-04-24 14:32:54 ** Disconnected.
+18-04-24 14:32:54 ** Disconnected.
+18-04-26 19:34:17 ** --- MESSAGE BEGIN ---
+18-04-26 19:34:17 ** To: mohitkhosla70@gmail.com
+18-04-26 19:34:17 ** Subject: Thank you! Your booking has been confirmed.
+18-04-26 19:34:17 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-26 19:34:17 ** From: Team
+18-04-26 19:34:17 ** 
+18-04-26 19:34:17 ** Greeting! We'll get back to you soon.
+18-04-26 19:34:17 ** --- MESSAGE END ---
+18-04-26 19:34:18 ** Connecting to smtp.gmail.com:587
+18-04-26 19:34:19 ** Connected.
+18-04-26 19:34:19 << 220 smtp.gmail.com ESMTP 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:19 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 19:34:19 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 19:34:19 ** Authenticating as hostelportalcrce@gmail.com
+18-04-26 19:34:19 >> STARTTLS<EOL>
+18-04-26 19:34:19 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-26 19:34:19 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 19:34:20 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 19:34:20 >> AUTH LOGIN<EOL>
+18-04-26 19:34:20 << 334 VXNlcm5hbWU6<EOL>
+18-04-26 19:34:20 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-26 19:34:20 << 334 UGFzc3dvcmQ6<EOL>
+18-04-26 19:34:20 >> cmlraWRvdGEy<EOL>
+18-04-26 19:34:21 << 235 2.7.0 Accepted<EOL>
+18-04-26 19:34:21 >> MAIL FROM: <Team@><EOL>
+18-04-26 19:34:21 << 250 2.1.0 OK 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:21 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-26 19:34:21 << 250 2.1.5 OK 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:21 >> DATA<EOL>
+18-04-26 19:34:22 << 354  Go ahead 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:22 >> Date: Thu, 26 Apr 2018 19:34:22 +0530<EOL>
+18-04-26 19:34:22 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-26 19:34:22 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-26 19:34:22 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-26 19:34:22 >> From: Team<EOL>
+18-04-26 19:34:22 >> <EOL>
+18-04-26 19:34:22 >> Greeting! We'll get back to you soon.<EOL>
+18-04-26 19:34:22 >> .<EOL>
+18-04-26 19:34:23 << 250 2.0.0 OK 1524751464 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:23 >> QUIT<EOL>
+18-04-26 19:34:23 << 221 2.0.0 closing connection 125sm26809973pfc.145 - gsmtp<EOL>
+18-04-26 19:34:23 ** Disconnected.
+18-04-26 19:34:23 ** Disconnected.
+18-04-26 19:34:23 ** Disconnected.
+18-04-26 19:35:40 ** --- MESSAGE BEGIN ---
+18-04-26 19:35:40 ** To: jashanthapar@gmail.com
+18-04-26 19:35:40 ** Subject: Thank you! Your booking has been confirmed.
+18-04-26 19:35:40 ** X-PHP-Originating-Script: 0:appointment.php
+18-04-26 19:35:40 ** From: Team
+18-04-26 19:35:40 ** 
+18-04-26 19:35:40 ** Greeting! We'll get back to you soon.
+18-04-26 19:35:40 ** --- MESSAGE END ---
+18-04-26 19:35:41 ** Connecting to smtp.gmail.com:587
+18-04-26 19:35:42 ** Connected.
+18-04-26 19:35:42 << 220 smtp.gmail.com ESMTP w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:42 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 19:35:42 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 19:35:42 ** Authenticating as hostelportalcrce@gmail.com
+18-04-26 19:35:42 >> STARTTLS<EOL>
+18-04-26 19:35:42 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-26 19:35:42 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 19:35:43 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 19:35:43 >> AUTH LOGIN<EOL>
+18-04-26 19:35:43 << 334 VXNlcm5hbWU6<EOL>
+18-04-26 19:35:43 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-26 19:35:43 << 334 UGFzc3dvcmQ6<EOL>
+18-04-26 19:35:43 >> cmlraWRvdGEy<EOL>
+18-04-26 19:35:44 << 235 2.7.0 Accepted<EOL>
+18-04-26 19:35:44 >> MAIL FROM: <Team@><EOL>
+18-04-26 19:35:44 << 250 2.1.0 OK w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:44 >> RCPT TO: <jashanthapar@gmail.com><EOL>
+18-04-26 19:35:44 << 250 2.1.5 OK w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:44 >> DATA<EOL>
+18-04-26 19:35:44 << 354  Go ahead w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:44 >> Date: Thu, 26 Apr 2018 19:35:44 +0530<EOL>
+18-04-26 19:35:44 >> To: jashanthapar@gmail.com<EOL>
+18-04-26 19:35:44 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-26 19:35:44 >> X-PHP-Originating-Script: 0:appointment.php<EOL>
+18-04-26 19:35:44 >> From: Team<EOL>
+18-04-26 19:35:44 >> <EOL>
+18-04-26 19:35:44 >> Greeting! We'll get back to you soon.<EOL>
+18-04-26 19:35:44 >> .<EOL>
+18-04-26 19:35:45 << 250 2.0.0 OK 1524751547 w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:45 >> QUIT<EOL>
+18-04-26 19:35:46 << 221 2.0.0 closing connection w26sm45798052pfi.17 - gsmtp<EOL>
+18-04-26 19:35:46 ** Disconnected.
+18-04-26 19:35:46 ** Disconnected.
+18-04-26 19:35:46 ** Disconnected.
+18-04-26 20:17:45 ** --- MESSAGE BEGIN ---
+18-04-26 20:17:45 ** To: pratikvartak96@gmail.com
+18-04-26 20:17:45 ** Subject: Thank you! Your booking has been confirmed.
+18-04-26 20:17:45 ** X-PHP-Originating-Script: 0:index.php
+18-04-26 20:17:45 ** From: Team
+18-04-26 20:17:45 ** 
+18-04-26 20:17:45 ** Greeting! We'll get back to you soon.
+18-04-26 20:17:45 ** --- MESSAGE END ---
+18-04-26 20:17:46 ** Connecting to smtp.gmail.com:587
+18-04-26 20:17:46 ** Connected.
+18-04-26 20:17:46 << 220 smtp.gmail.com ESMTP x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:46 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:17:46 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:17:46 ** Authenticating as hostelportalcrce@gmail.com
+18-04-26 20:17:46 >> STARTTLS<EOL>
+18-04-26 20:17:47 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-26 20:17:47 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:17:47 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:17:47 >> AUTH LOGIN<EOL>
+18-04-26 20:17:47 << 334 VXNlcm5hbWU6<EOL>
+18-04-26 20:17:47 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-26 20:17:47 << 334 UGFzc3dvcmQ6<EOL>
+18-04-26 20:17:47 >> cmlraWRvdGEy<EOL>
+18-04-26 20:17:48 << 235 2.7.0 Accepted<EOL>
+18-04-26 20:17:48 >> MAIL FROM: <Team@><EOL>
+18-04-26 20:17:48 << 250 2.1.0 OK x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:48 >> RCPT TO: <pratikvartak96@gmail.com><EOL>
+18-04-26 20:17:48 << 250 2.1.5 OK x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:48 >> DATA<EOL>
+18-04-26 20:17:49 << 354  Go ahead x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:49 >> Date: Thu, 26 Apr 2018 20:17:49 +0530<EOL>
+18-04-26 20:17:49 >> To: pratikvartak96@gmail.com<EOL>
+18-04-26 20:17:49 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-26 20:17:49 >> X-PHP-Originating-Script: 0:index.php<EOL>
+18-04-26 20:17:49 >> From: Team<EOL>
+18-04-26 20:17:49 >> <EOL>
+18-04-26 20:17:49 >> Greeting! We'll get back to you soon.<EOL>
+18-04-26 20:17:49 >> .<EOL>
+18-04-26 20:17:50 << 250 2.0.0 OK 1524754071 x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:50 >> QUIT<EOL>
+18-04-26 20:17:50 << 221 2.0.0 closing connection x17sm34939869pfm.161 - gsmtp<EOL>
+18-04-26 20:17:50 ** Disconnected.
+18-04-26 20:17:50 ** Disconnected.
+18-04-26 20:17:50 ** Disconnected.
+18-04-26 20:18:02 ** --- MESSAGE BEGIN ---
+18-04-26 20:18:02 ** To: mohitkhosla70@gmail.com
+18-04-26 20:18:02 ** Subject: Thank you! Your booking has been confirmed.
+18-04-26 20:18:02 ** X-PHP-Originating-Script: 0:index.php
+18-04-26 20:18:02 ** From: Team
+18-04-26 20:18:02 ** 
+18-04-26 20:18:02 ** Greeting! We'll get back to you soon.
+18-04-26 20:18:02 ** --- MESSAGE END ---
+18-04-26 20:18:03 ** Connecting to smtp.gmail.com:587
+18-04-26 20:18:03 ** Connected.
+18-04-26 20:18:03 << 220 smtp.gmail.com ESMTP a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:03 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:18:03 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:18:03 ** Authenticating as hostelportalcrce@gmail.com
+18-04-26 20:18:03 >> STARTTLS<EOL>
+18-04-26 20:18:04 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-26 20:18:04 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:18:04 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:18:04 >> AUTH LOGIN<EOL>
+18-04-26 20:18:04 << 334 VXNlcm5hbWU6<EOL>
+18-04-26 20:18:04 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-26 20:18:04 << 334 UGFzc3dvcmQ6<EOL>
+18-04-26 20:18:04 >> cmlraWRvdGEy<EOL>
+18-04-26 20:18:05 << 235 2.7.0 Accepted<EOL>
+18-04-26 20:18:05 >> MAIL FROM: <Team@><EOL>
+18-04-26 20:18:05 << 250 2.1.0 OK a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:05 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-26 20:18:05 << 250 2.1.5 OK a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:05 >> DATA<EOL>
+18-04-26 20:18:06 << 354  Go ahead a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:06 >> Date: Thu, 26 Apr 2018 20:18:06 +0530<EOL>
+18-04-26 20:18:06 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-26 20:18:06 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-26 20:18:06 >> X-PHP-Originating-Script: 0:index.php<EOL>
+18-04-26 20:18:06 >> From: Team<EOL>
+18-04-26 20:18:06 >> <EOL>
+18-04-26 20:18:06 >> Greeting! We'll get back to you soon.<EOL>
+18-04-26 20:18:06 >> .<EOL>
+18-04-26 20:18:07 << 250 2.0.0 OK 1524754088 a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:07 >> QUIT<EOL>
+18-04-26 20:18:07 << 221 2.0.0 closing connection a6sm31757902pfo.157 - gsmtp<EOL>
+18-04-26 20:18:07 ** Disconnected.
+18-04-26 20:18:07 ** Disconnected.
+18-04-26 20:18:07 ** Disconnected.
+18-04-26 20:48:35 ** --- MESSAGE BEGIN ---
+18-04-26 20:48:35 ** To: mohitkhosla70@gmail.com
+18-04-26 20:48:35 ** Subject: Thank you! Your booking has been confirmed.
+18-04-26 20:48:35 ** X-PHP-Originating-Script: 0:index.php
+18-04-26 20:48:35 ** From: Team
+18-04-26 20:48:35 ** 
+18-04-26 20:48:35 ** Greeting! We'll get back to you soon.
+18-04-26 20:48:35 ** --- MESSAGE END ---
+18-04-26 20:48:36 ** Connecting to smtp.gmail.com:587
+18-04-26 20:48:36 ** Connected.
+18-04-26 20:48:36 << 220 smtp.gmail.com ESMTP j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:36 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:48:36 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:48:36 ** Authenticating as hostelportalcrce@gmail.com
+18-04-26 20:48:36 >> STARTTLS<EOL>
+18-04-26 20:48:37 << 220 2.0.0 Ready to start TLS<EOL>
+18-04-26 20:48:37 >> EHLO LAPTOP-4P81PMNC<EOL>
+18-04-26 20:48:37 << 250-smtp.gmail.com at your service, [103.51.234.189]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+18-04-26 20:48:37 >> AUTH LOGIN<EOL>
+18-04-26 20:48:37 << 334 VXNlcm5hbWU6<EOL>
+18-04-26 20:48:37 >> aG9zdGVscG9ydGFsY3JjZUBnbWFpbC5jb20=<EOL>
+18-04-26 20:48:37 << 334 UGFzc3dvcmQ6<EOL>
+18-04-26 20:48:37 >> cmlraWRvdGEy<EOL>
+18-04-26 20:48:38 << 235 2.7.0 Accepted<EOL>
+18-04-26 20:48:38 >> MAIL FROM: <Team@><EOL>
+18-04-26 20:48:38 << 250 2.1.0 OK j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:38 >> RCPT TO: <mohitkhosla70@gmail.com><EOL>
+18-04-26 20:48:38 << 250 2.1.5 OK j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:38 >> DATA<EOL>
+18-04-26 20:48:39 << 354  Go ahead j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:39 >> Date: Thu, 26 Apr 2018 20:48:39 +0530<EOL>
+18-04-26 20:48:39 >> To: mohitkhosla70@gmail.com<EOL>
+18-04-26 20:48:39 >> Subject: Thank you! Your booking has been confirmed.<EOL>
+18-04-26 20:48:39 >> X-PHP-Originating-Script: 0:index.php<EOL>
+18-04-26 20:48:39 >> From: Team<EOL>
+18-04-26 20:48:39 >> <EOL>
+18-04-26 20:48:39 >> Greeting! We'll get back to you soon.<EOL>
+18-04-26 20:48:39 >> .<EOL>
+18-04-26 20:48:40 << 250 2.0.0 OK 1524755921 j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:40 >> QUIT<EOL>
+18-04-26 20:48:40 << 221 2.0.0 closing connection j1sm36309911pgn.69 - gsmtp<EOL>
+18-04-26 20:48:40 ** Disconnected.
+18-04-26 20:48:40 ** Disconnected.
+18-04-26 20:48:40 ** Disconnected.
